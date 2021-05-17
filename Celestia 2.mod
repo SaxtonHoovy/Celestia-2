@@ -1,0 +1,7 @@
+name = "Celestia 2"
+path = "mod/Celestia 2"
+user_dir = "Celestia 2"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history"
+replace_path = "common"
