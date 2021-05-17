@@ -1,0 +1,4 @@
+add_core = UCA
+add_core = NIC
+trade_goods = cattle
+life_rating = 35 

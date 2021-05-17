@@ -1,0 +1,6 @@
+owner = CAN
+add_core = DJN
+trade_goods = grain
+life_rating = 35 
+colonial = 2
+

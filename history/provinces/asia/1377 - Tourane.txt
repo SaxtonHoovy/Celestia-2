@@ -1,0 +1,4 @@
+add_core = PEG
+add_core = RKV 
+trade_goods = tobacco
+life_rating = 35 

@@ -1,0 +1,4 @@
+owner = TAL
+add_core = TAL
+trade_goods = cattle
+life_rating = 35 

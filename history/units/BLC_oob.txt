@@ -1,0 +1,56 @@
+army = {
+	name = "The Buffalo Warband"
+	location = 460
+	regiment = {
+		name= "1st Buffalo Warband"
+		type = irregular
+		home = 421
+	}
+
+	regiment = {
+		name= "2nd Buffalo Warband"
+		type = irregular
+		home = 2012
+	}
+
+	regiment = {
+		name= "3rd Buffalo Warband"
+		type = irregular
+		home = 422
+	}
+
+	regiment = {
+		name= "4th Buffalo Warband"
+		type = irregular
+		home = 460
+	}
+
+	regiment = {
+		name= "5th Buffalo Warband"
+		type = irregular
+		home = 2098
+	}
+
+	regiment = {
+		name= "6th Buffalo Warband"
+		type = irregular
+		home = 475
+	}
+
+	regiment = {
+		name= "7th Buffalo Warband"
+		type = irregular
+		home = 2091
+	}
+
+	regiment = {
+		name= "8th Buffalo Warband"
+		type = irregular
+		home = 1770
+	}
+
+	regiment = {
+		name= "9th Buffalo Warband"
+		type = irregular
+		home = 303
+	}

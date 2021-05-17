@@ -1,0 +1,5 @@
+add_core = RKV 
+add_core = PEG
+trade_goods = fruit
+life_rating = 35 
+

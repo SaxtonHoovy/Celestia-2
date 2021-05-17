@@ -1,0 +1,15 @@
+ENG = {
+	value = 0
+}
+
+PRU = {
+	value = 49
+}
+
+leader = {
+	name = "Rye"
+	date = 1836.1.1
+	type = land
+	personality = daring
+	background = adventurer
+}

@@ -1,0 +1,5 @@
+add_core = TEX
+add_core = MEX
+add_core = 
+trade_goods = sulphur
+life_rating = 35 

@@ -1,0 +1,82 @@
+
+leader = {
+	name = "Marquês do Herval"
+	date = 1840.1.1
+	type = land
+	personality = relentless
+	background = cavalry_school
+	prestige = 0.2
+}
+
+leader = {
+	name = "Luis Alves,Duque de Caxias"
+	date = 1841.1.1
+	type = land
+	personality = brilliant
+	background = innovative_tactician
+	prestige = 0.2
+}
+
+leader = {
+	name = "José Maria Wandenkolk"
+	date = 1843.1.1
+	type = land
+	personality = coolminded
+	background = generals_aide
+	prestige = 0.2
+}
+
+
+leader = {
+	name = "de Surui"
+	date = 1845.1.1 
+	type = land
+	personality = imperious
+	background = powerful_friends
+	prestige = 0.2
+}
+
+leader = {
+	name = "Marquês de Tamandaré"
+	date = 1847.1.1
+	type = sea
+	personality = audacious
+	background = natural_born_leader
+	prestige = 0.2
+}
+
+leader = {
+	name = "Marques de Souza III"
+	date = 1850.1.1
+	type = land
+	personality = efficient
+	background = aristocrat
+	prestige = 0.2
+}
+
+leader = {
+	name = "Jesuíno Lamego da Costa"
+	date = 1851.1.1
+	type = land
+	personality = active_p
+	background = armchair_general
+	prestige = 0.2
+}
+
+leader = {
+	name = "de Itapevi"
+	date = 1861.1.1 #1851
+	type = land
+	personality = efficient
+	background = old_school
+	prestige = 0.2
+}
+
+leader = {
+	name = "F. Manuel Barroso"
+	date = 1852.1.1
+	type = sea
+	personality = heroic
+	background = school_of_defense
+	prestige = 0.2
+}

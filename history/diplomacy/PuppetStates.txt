@@ -1,0 +1,60 @@
+vassal = {
+	first = CAN
+	second = PYV
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = TAL
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = VAN
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = WIN
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = PEG
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = MAN
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = FIL
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = BTM
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = BLS
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+vassal = {
+	first = CAN
+	second = RKV
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}

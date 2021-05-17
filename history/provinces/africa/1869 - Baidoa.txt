@@ -1,0 +1,4 @@
+add_core = RKV 
+add_core = PEG
+trade_goods = cotton
+life_rating = 35 

@@ -1,0 +1,11 @@
+leader = {
+	name = "Venancio Flores"
+	date = 1854.1.1
+	type = land
+	personality = brash
+	background = hated
+	prestige = 0.2
+}
+
+
+

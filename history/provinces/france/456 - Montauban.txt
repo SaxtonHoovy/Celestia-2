@@ -1,0 +1,6 @@
+owner = RKV
+add_core = RKV 
+add_core = PEG
+trade_goods = tobacco
+life_rating = 30  
+

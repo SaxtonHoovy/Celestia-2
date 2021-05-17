@@ -1,0 +1,4 @@
+add_core = UCA
+add_core = GUA
+trade_goods = iron
+life_rating = 25  

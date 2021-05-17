@@ -1,0 +1,4 @@
+owner = BLS
+add_core = BLS
+trade_goods = timber
+life_rating = 35 

@@ -1,0 +1,4 @@
+add_core = 
+add_core = MAN
+trade_goods = grain
+life_rating = 35 

@@ -1,0 +1,4 @@
+add_core = PEG
+add_core = RKV 
+trade_goods = tropical_wood
+life_rating = 35 

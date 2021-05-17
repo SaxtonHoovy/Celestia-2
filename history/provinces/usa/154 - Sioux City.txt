@@ -1,0 +1,4 @@
+add_core = 
+trade_goods = grain
+life_rating = 25  
+colony = 2
