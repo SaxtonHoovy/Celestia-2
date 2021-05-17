@@ -1,0 +1,67 @@
+country_event = {
+id = 1
+title = Apples
+desc = apple?
+fire_only_once = yes
+
+trigger = {
+	tag = CAN
+	year = 1836
+	}
+
+mean_time_to_happen = {
+months = 1
+}
+
+option = {
+	name = "EVTOPTA1"
+	BLC = {
+		war = {
+			target = CAN
+			attacker_goal = {
+				casus_belli = conquest}
+			defender_goal = {
+				casus_belli = status_quo}
+			call_ally = no
+			}
+			
+		}
+	}
+option = {
+	name = "EVTOPTA2"
+	CAN = {
+	434 = {secede_province = BLC}
+	437 = {secede_province = BLC}
+	488 = {secede_province = BLC}
+	}
+}
+	
+}
+
+country_event = {
+id = 2
+title = Losing Apples
+desc = apple?
+fire_only_once = yes
+
+trigger = {
+	tag = CAN
+	war_with = BLC
+	437 = {controlled_by = BLC}
+	488 = {controlled_by = BLC}
+	}
+
+mean_time_to_happen = {
+months = 1
+}
+
+option = {
+	name = "EVTOPTA1"
+	CAN = {
+	434 = {secede_province = BLC}
+	437 = {secede_province = BLC}
+	488 = {secede_province = BLC}
+		}
+	}
+	
+}
