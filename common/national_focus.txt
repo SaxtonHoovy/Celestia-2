@@ -53,7 +53,7 @@ promotion_focus =
 
 	promote_artisans =
 	{
-		artisans = 0.20 #20% more likeley to become this type
+		artisans = 1.00 #20% more likeley to become this type
 		icon = 6
 		outliner_show_as_percent = yes
 	}
@@ -173,10 +173,10 @@ production_focus =
 
 	textile_focus =
 	{
-		luxury_clothes = 18.3
-		regular_clothes = 18.3
-		fabric = 0.3
-		dye = 0.3
+		luxury_clothes = 100
+		regular_clothes = 100
+		fabric = 100
+		dye = 100
 		icon = 20
 		#limit = { 
 		#	civilized = yes
@@ -185,10 +185,10 @@ production_focus =
 
 	wood_focus = 
 	{
-		paper = 18.3
-		luxury_furniture = 18.3
-		furniture = 18.3
-		lumber = 18.3
+		paper = 100
+		luxury_furniture = 100
+		furniture = 100
+		lumber = 100
 		icon = 21
 		#limit = { 
 		#	civilized = yes
@@ -197,9 +197,9 @@ production_focus =
 
 	basic_industry_focus =
 	{
-		steel = 18.3
-		machine_parts = 25.3
-		cement = 18.3
+		steel = 100
+		machine_parts = 100
+		cement = 100
 		icon = 22
 		#limit = { 
 		#	civilized = yes
@@ -208,12 +208,12 @@ production_focus =
 
 	armaments_focus = 
 	{
-		artillery = 18.3
-		small_arms = 18.3
-		ammunition = 18.3
-		canned_food = 18.3  
-		explosives = 18.3
-		fertilizer = 18.3
+		artillery = 100
+		small_arms = 100
+		ammunition = 100
+		canned_food = 100  
+		explosives = 100
+		fertilizer = 100
 		icon = 23
 		#limit = { 
 		#	civilized = yes
@@ -222,9 +222,9 @@ production_focus =
 
 	consumer_focus = 
 	{
-		liquor = 18.3
-		wine = 18.3
-		glass = 18.3
+		liquor = 100
+		wine = 100
+		glass = 100
 		icon = 24
 		#limit = { 
 		#	civilized = yes

@@ -1,0 +1,22 @@
+political_decisions = {
+
+    Setup = {
+        picture = starting_options
+        alert = no
+        potential = {
+	    ai = yes
+	    exist = yes
+            year = 1836
+	    NOT = { has_global_flag = setup_complete }
+        }
+
+        allow = {
+        }
+
+        effect = {
+            set_global_flag = setup_complete
+	    CAN = {add_country_modifier = { name = Cutie_Mark_Assignment_System duration = -1 } }
+        }
+    }
+
+}

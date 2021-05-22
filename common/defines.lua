@@ -25,7 +25,7 @@ country = {
 	CAMPAIGN_EVENT_STATE_SCALE = -3,	-- every non-colonial state reduces by 3 days (NOT USED)
 	CAMPAIGN_DURATION = 6,	-- a campaign lasts these amount of months
 	COLONIAL_RANK = 24, -- Minimum rank a nation must have to send colonists
-	COLONY_TO_STATE_PRESTIGE_GAIN = 1, -- Prestige gain when turning colony to state
+	COLONY_TO_STATE_PRESTIGE_GAIN = .25, -- Prestige gain when turning colony to state
 	COLONIAL_LIFERATING = 30,
 	BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, -- Influence value which is distributed each day
 	AI_SUPPORT_REFORM = 0.05, -- At least this many % needs to support a reform for the AI to take it
@@ -105,7 +105,7 @@ economy = {
 	GUNBOAT_FLEET_SIZE_FACTOR = 100,
 	PROVINCE_SIZE_DIVIDER = 50,
 	CAPITALIST_BUILD_FACTORY_STATE_EMPLOYMENT_PERCENT = 0, -- Capis don't build factories if less than this percent is employed in existing factories
-	GOODS_FOCUS_SWAP_CHANCE = 0, -- Percent increased chance that artisan wants to change goods independantly of how well he is doing presently
+	GOODS_FOCUS_SWAP_CHANCE = 20, -- Percent increased chance that artisan wants to change goods independantly of how well he is doing presently
 	NUM_CLOSED_FACTORIES_PER_STATE_LASSIEZ_FAIRE = 1, -- Number of closed factories allowed per state under Lassiez Faire
 	MIN_NUM_FACTORIES_PER_STATE_BEFORE_DELETING_LASSIEZ_FAIRE = 2, -- Min number of factories per state before starting to delete under Lassiez Faire
 	BANKRUPCY_DURATION = 2, -- Years til a bancrupcy clears all loans
@@ -633,7 +633,7 @@ pops = {
 	BASE_GOODS_DEMAND = 0.8,
 	BASE_POPGROWTH = 0.002,
 	MIN_LIFE_RATING_FOR_GROWTH = 20,
-	LIFE_RATING_GROWTH_BONUS = 0.0012,
+	LIFE_RATING_GROWTH_BONUS = 0.0015,
 	LIFE_NEED_STARVATION_LIMIT = 0.5,
 
 	MIL_LACK_EVERYDAY_NEED = 0.1,
@@ -671,7 +671,7 @@ pops = {
 																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
 	
 	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
-	ARTISAN_MIN_PRODUCTIVITY = 1, -- Minimum efficieny of an artisan
+	ARTISAN_MIN_PRODUCTIVITY = 5, -- Minimum efficieny of an artisan
 	SLAVE_GROWTH_DIVISOR = 10, -- Slaves have N times lower growth
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
@@ -718,7 +718,7 @@ ai =
 	PEACE_TIME_MONTHS = 30, -- months of additional AI stubbornness in a war
 	PEACE_TIME_FACTOR = 0.6, -- after months of stubbornness the effect of time passed is multiplied by this
 	PEACE_TIME_FACTOR_NO_GOALS = 2.0, -- this extra time factor is applied after PEACE_TIME_FACTOR if we ahve no wargoals
-	PEACE_WAR_EXHAUSTION_FACTOR = 0.5, -- AI willingness to peace based on war exhaustion
+	PEACE_WAR_EXHAUSTION_FACTOR = 4.0, -- AI willingness to peace based on war exhaustion
 	PEACE_WAR_DIRECTION_FACTOR = 1.0, -- AI willingness to peace based on who's making gains in the war
 	PEACE_WAR_DIRECTION_WINNING_MULT = 5.0, -- Multiplies AI emphasis on war direction if it's the one making gains
 	PEACE_FORCE_BALANCE_FACTOR = 0.3, -- AI willingness to peace based on strength estimation of both sides

@@ -1,67 +1,192 @@
+#Appleloosan - Buffalo War#
 country_event = {
 id = 1
-title = Apples
-desc = apple?
+title = "EVTNAME1"
+desc = "EVTDESC1"
 fire_only_once = yes
 
 trigger = {
-	tag = CAN
-	year = 1836
+	tag = BLC
+	year = 1845
 	}
-
-mean_time_to_happen = {
-months = 1
-}
 
 option = {
 	name = "EVTOPTA1"
-	BLC = {
-		war = {
-			target = CAN
-			attacker_goal = {
-				casus_belli = conquest}
-			defender_goal = {
-				casus_belli = status_quo}
-			call_ally = no
-			}
-			
-		}
+	CAN = {country_event = 2}
+	ai_chance = { factor = 100 }
 	}
 option = {
 	name = "EVTOPTA2"
-	CAN = {
-	434 = {secede_province = BLC}
-	437 = {secede_province = BLC}
-	488 = {secede_province = BLC}
-	}
+	434 = {remove_core = BLC}
+	437 = {remove_core = BLC}
+	488 = {remove_core = BLC}
 }
 	
 }
 
 country_event = {
 id = 2
-title = Losing Apples
-desc = apple?
-fire_only_once = yes
-
-trigger = {
-	tag = CAN
-	war_with = BLC
-	437 = {controlled_by = BLC}
-	488 = {controlled_by = BLC}
-	}
-
-mean_time_to_happen = {
-months = 1
-}
+title = "EVTNAME2"
+desc = "EVTDESC2"
+is_triggered_only = yes
 
 option = {
-	name = "EVTOPTA1"
-	CAN = {
+	name = "EVTOPTA3"
 	434 = {secede_province = BLC}
 	437 = {secede_province = BLC}
 	488 = {secede_province = BLC}
-		}
+	BLC = {country_event = 5}
 	}
-	
+
+option = {
+	name = "EVTOPTA4"
+	BLC = {country_event = 3}
+	}
+
+option = {
+	name = "EVTOPTA5"
+	BLC = {country_event = 4}
+	}
 }
+
+country_event = { 
+id = 3
+title = "EVTNAME3"
+desc = "EVTDESC3"
+is_triggered_only = yes 
+
+option = {
+	name = "EVTOPTA6"
+	war = {
+	target = CAN
+	attacker_goal = { casus_belli = conquest }
+	defender_goal = { casus_belli = status_quo }
+	call_ally = no
+	       }
+	ai_chance = { factor = 100 }
+	}
+option = {
+	name = "EVTOPTA7"
+	434 = {remove_core = BLC}
+	437 = {remove_core = BLC}
+	488 = {remove_core = BLC}
+	}
+}
+
+country_event = {
+id = 4
+title = "EVTNAME4"
+desc = "EVTDESC4"
+is_triggered_only = yes 
+
+option = {
+	name = "EVTOPTA8"
+	CAN = {country_event = 7}
+	ai_chance = { factor = 100 }
+	}
+option = {
+	name = "EVTOPTA9"
+	CAN = {country_event = 6}
+	}
+}
+country_event = {
+id = 5
+title = "EVTNAME5"
+desc = "EVTDESC5"
+is_triggered_only = yes 
+
+option = {
+	name = "EVTOPTA10"
+	434 = {remove_core = CAN}
+	437 = {remove_core = CAN}
+	488 = {remove_core = CAN}
+	434 = {remove_core = APS}
+	437 = {remove_core = APS}
+	488 = {remove_core = APS}
+	}
+}
+country_event = {
+id = 6
+title = "EVTNAME6"
+desc = "EVTDESC6"
+is_triggered_only = yes
+
+
+option = {
+	name = "EVTOPTA11"
+	434 = {secede_province = BLC}
+	437 = {secede_province = BLC}
+	488 = {secede_province = BLC}
+	BLC = {country_event = 5}
+	}
+
+option = {
+	name = "EVTOPTA12"
+	BLC = {country_event = 3}
+	}
+}
+country_event = {
+id = 7
+title = "EVTNAME7"
+desc = "EVTDESC7"
+is_triggered_only = yes
+
+
+option = {
+	name = "EVTOPTA13"
+	434 = {add_province_modifier = { name = Comprimise_Appleloosa duration = 1825 }}
+	437 = {add_province_modifier = { name = Comprimise_Appleloosa duration = 1825 }}
+	488 = {add_province_modifier = { name = Comprimise_Appleloosa duration = 1825 }}
+	434 = {remove_core = BLC}
+	437 = {remove_core = BLC}
+	488 = {remove_core = BLC}
+	BLC = {any_owned = {add_province_modifier = { name = Comprimise_Buffalo duration = 1825 }}
+	}
+ }
+}
+#Buffalo Victory
+country_event = {
+id = 8
+title = "EVTNAME8"
+desc = "EVTDESC8"
+fire_only_once = yes
+
+trigger = {
+	tag = BLC
+	war_with = CAN
+	434 = {controlled_by = BLC}
+	437 = {controlled_by = BLC}
+	488 = {controlled_by = BLC}
+	   }
+
+option = {
+	name = "EVTOPTA14"
+	BLC = {add_country_modifier = { name = Buffalo_Victory duration = 1825}}
+	CAN = {country_event = 9}
+	}
+}
+
+#Appleloosa Lost
+country_event = {
+id = 9
+title = "EVTNAME9"
+desc = "EVTDESC9"
+is_triggered_only = yes
+
+option = {
+	name = "EVTOPTA15"
+	CAN = {add_country_modifier = { name = Canterlot_Defeat duration = 1825}}
+	434 = {secede_province = BLC}
+	437 = {secede_province = BLC}
+	488 = {secede_province = BLC}
+	434 = {remove_core = CAN}
+	437 = {remove_core = CAN}
+	488 = {remove_core = CAN}
+	434 = {remove_core = APS}
+	437 = {remove_core = APS}
+	488 = {remove_core = APS}
+	CAN {end_war = BLC}
+	}
+}
+
+	

@@ -1,20 +1,14 @@
 army = {
 	name = "The Appleloosan Militia"
-	location = 434
+	location = 488
 	regiment = {
 		name= "1st Appleloosan Militia"
 		type = irregular
-		home = 434
+		home = 488
 	}
 
 	regiment = {
 		name= "2nd Appleloosan Militia"
 		type = irregular
 		home = 437
-	}
-
-	regiment = {
-		name= "3rd Appleloosan Militia"
-		type = irregular
-		home = 488
 	}
