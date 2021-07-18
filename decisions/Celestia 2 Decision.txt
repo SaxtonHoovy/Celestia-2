@@ -31,5 +31,19 @@ political_decisions = {
 	    remove_country_modifier = Industral_Assignment_System
         }
     }
-
 }
+political_decisions = {
+
+	stats = {
+	picture = starting_options
+	alert = no
+	potential = { ai = no
+	}
+	
+	allow = { tag = CAN
+	}
+	
+	effect = { add_country_modifier = { name = Canterlot_Defeat duration = 1825}
+		}
+	}
+}	

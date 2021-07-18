@@ -1,5 +1,4 @@
 add_core = RKV 
 add_core = PEG 
-add_core = PEG 
 trade_goods = timber
 life_rating = 35 

@@ -7,7 +7,7 @@ fire_only_once = yes
 
 trigger = {
 	tag = BLC
-	year = 1845
+	year = 1836
 	}
 
 option = {
@@ -140,10 +140,9 @@ option = {
 	434 = {remove_core = BLC}
 	437 = {remove_core = BLC}
 	488 = {remove_core = BLC}
-	BLC = {any_owned = {add_province_modifier = { name = Comprimise_Buffalo duration = 1825 }}
+	BLC = {any_owned = {add_province_modifier = { name = Comprimise_Buffalo duration = 1825 }}}
 	}
  }
-}
 #Buffalo Victory
 country_event = {
 id = 8
@@ -188,5 +187,19 @@ option = {
 	CAN {end_war = BLC}
 	}
 }
+
+#Appleloosa Lost
+country_event = {
+id = 10
+title = "EVTNAME10"
+desc = "EVTDESC10"
+is_triggered_only = yes
+
+option = {
+	name = "EVTOPTA16"
+	add_country_modifier = { name = Canterlot_Defeat duration = 1825}
+	}
+}
+
 
 	
