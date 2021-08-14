@@ -1,0 +1,6195 @@
+#Changeling Lands
+38 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+43 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+50 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+92 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+228 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+232 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+237 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+239 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+241 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+243 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+1808 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2141 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2142 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2144 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2145 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2147 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2157 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2158 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2186 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2201 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2204 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2205 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2223 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2230 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+2256 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2258 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2260 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2270 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+2279 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2301 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2316 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2334 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2335 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2390 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2395 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2443 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2467 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2550 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2551 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+2628 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3616 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3617 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3618 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+3619 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+3620 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+3628 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3629 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3819 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3821 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3829 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3830 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3831 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3832 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3833 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3834 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3835 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3836 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3838 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3839 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3840 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3841 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3842 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3843 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3844 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3845 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3846 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3847 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3848 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3849 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3885 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3886 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3887 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+3888 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3889 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3890 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3891 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3892 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3893 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3894 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3895 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3896 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3897 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3898 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3899 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3900 = {
+
+farmers = {
+culture = tagmatan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tagmatan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tagmatan
+religion = changeling
+size = 1
+}
+
+}
+3901 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3902 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+3903 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4223 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4224 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4225 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4226 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4227 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4228 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4229 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4230 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4231 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4232 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4233 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4234 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4235 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4236 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4237 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4238 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4239 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4240 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4241 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4242 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4243 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4244 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4245 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4246 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4247 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4248 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4249 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4250 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4251 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4252 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4253 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4254 = {
+
+farmers = {
+culture = tarsan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tarsan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tarsan
+religion = changeling
+size = 1
+}
+
+}
+4255 = {
+
+farmers = {
+culture = tarsan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tarsan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tarsan
+religion = changeling
+size = 1
+}
+
+}
+4256 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4257 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4258 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4259 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4260 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4261 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4262 = {
+
+farmers = {
+culture = tarsan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tarsan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tarsan
+religion = changeling
+size = 1
+}
+
+}
+4263 = {
+
+farmers = {
+culture = tarsan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tarsan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tarsan
+religion = changeling
+size = 1
+}
+
+}
+4264 = {
+
+farmers = {
+culture = tarsan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tarsan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tarsan
+religion = changeling
+size = 1
+}
+
+}
+4265 = {
+
+farmers = {
+culture = tarsan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tarsan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tarsan
+religion = changeling
+size = 1
+}
+
+}
+4266 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4267 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4268 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4269 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4270 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4271 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4272 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4273 = {
+
+farmers = {
+culture = tarsan
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tarsan
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tarsan
+religion = changeling
+size = 1
+}
+
+}
+4274 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4275 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4276 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4277 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4278 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4279 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4280 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4281 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4282 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4283 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4284 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4285 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4286 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4287 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4288 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4289 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4290 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4291 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4292 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4293 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4294 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4295 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4296 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4297 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4298 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4299 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4300 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4301 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4302 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4303 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4304 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4305 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4306 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4307 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4308 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4309 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4310 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+cculture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4311 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4312 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4313 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4314 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4315 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4316 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4317 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4318 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4319 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4320 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4321 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4322 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4323 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4324 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4325 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4326 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4327 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4328 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4329 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4330 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4332 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4333 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4334 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4335 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4336 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4337 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4338 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4339 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4340 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4341 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4342 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4343 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4351 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4352 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4353 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4354 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4355 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4356 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4357 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4358 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4359 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4360 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4361 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4362 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4363 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4364 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4365 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4366 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4367 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4368 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4369 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4370 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4371 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4372 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4373 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4374 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4375 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4376 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4377 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4378 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4379 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4380 = {
+
+farmers = {
+culture = pupian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = pupian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = pupian
+religion = changeling
+size = 1
+}
+
+}
+4381 = {
+
+farmers = {
+culture = pupian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = pupian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = pupian
+religion = changeling
+size = 1
+}
+
+}
+4382 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4383 = {
+
+farmers = {
+culture = tritocereans
+religion = changeling
+size = 999
+}
+artisans = {
+culture = tritocereans
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = tritocereans
+religion = changeling
+size = 1
+}
+
+}
+4384 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4385 = {
+
+farmers = {
+culture = pupian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = pupian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = pupian
+religion = changeling
+size = 1
+}
+
+}
+4386 = {
+
+farmers = {
+culture = pupian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = pupian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = pupian
+religion = changeling
+size = 1
+}
+
+}
+4387 = {
+
+farmers = {
+culture = pupian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = pupian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = pupian
+religion = changeling
+size = 1
+}
+
+}
+4388 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4389 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4390 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4391 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4392 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4393 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4394 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4395 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4396 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4397 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4398 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4399 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4400 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4401 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4402 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4403 = {
+
+farmers = {
+culture = chrysalian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = chrysalian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = chrysalian
+religion = changeling
+size = 1
+}
+
+}
+4404 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4405 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4406 = {
+
+farmers = {
+culture = pupian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = pupian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = pupian
+religion = changeling
+size = 1
+}
+
+}
+4407 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4408 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4409 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4410 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4411 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4412 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4414 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4415 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4416 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4417 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4418 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4419 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4420 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4421 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4422 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4423 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4424 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4425 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4426 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4427 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4428 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4429 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4430 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4431 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4432 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4433 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4434 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4435 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4436 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4437 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4438 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4444 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4445 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4446 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4447 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4448 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4449 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4450 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4451 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4452 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4453 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4454 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4459 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4460 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4461 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4463 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4464 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4465 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4466 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4467 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4473 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4474 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4475 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4476 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4484 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4485 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4497 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4498 = {
+
+farmers = {
+culture = pupian
+religion = changeling
+size = 999
+}
+artisans = {
+culture = pupian
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = pupian
+religion = changeling
+size = 1
+}
+
+}
+4499 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4500 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4501 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}
+4515 = {
+
+farmers = {
+culture = queenless
+religion = changeling
+size = 999
+}
+artisans = {
+culture = queenless
+religion = changeling
+size = 500
+}
+bureaucrats = {
+culture = queenless
+religion = changeling
+size = 1
+}
+
+}

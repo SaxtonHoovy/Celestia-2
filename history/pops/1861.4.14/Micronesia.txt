@@ -3,19 +3,19 @@
 2517 = {
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 4
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5
 	}
 
@@ -41,7 +41,7 @@
 2521 = {
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2
 	}
 

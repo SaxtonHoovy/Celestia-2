@@ -3,43 +3,43 @@
 474 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2266.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 669.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 6540.5
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 23090.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 138980.5
 	}
 }
@@ -47,49 +47,49 @@
 475 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1081.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1133.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 11175.5
 	}
 
 	clergymen = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 4017.0
 	}
 }
@@ -97,31 +97,31 @@
 476 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 824.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 21030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 57765.0
 	}
 
@@ -131,43 +131,43 @@
 477 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 824.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3605.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 65508.0
 	}
 }
@@ -175,49 +175,49 @@
 478 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3605.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 36771.0
 	}
 
 	clergymen = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 4017.0
 	}
 }
@@ -225,43 +225,43 @@
 479 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 669.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 592.25
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5665.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 52195.25
 	}
 
 	clergymen = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 1004.25
 	}
 }
@@ -269,31 +269,31 @@
 480 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 42127.0
 	}
 
@@ -303,43 +303,43 @@
 481 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1545.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3605.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 64581.0
 	}
 }
@@ -347,31 +347,31 @@
 482 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1133.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2678.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 50212.5
 	}
 }
@@ -379,31 +379,31 @@
 483 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1236.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 50727.5
 	}
 
@@ -413,43 +413,43 @@
 484 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1287.5
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 4635.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 48049.5
 	}
 }
@@ -457,31 +457,31 @@
 485 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1081.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2317.5
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 45011.0
 	}
 }
@@ -489,31 +489,31 @@
 486 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 437.75
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 39886.75
 	}
 
@@ -523,43 +523,43 @@
 487 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 927.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 70555.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 16180.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 7463.0
 	}
 }
@@ -567,31 +567,31 @@
 488 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1236.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 47174.0
 	}
 }
@@ -599,31 +599,31 @@
 489 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1596.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 772.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5150.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 64066.0
 	}
 }
@@ -631,31 +631,31 @@
 490 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1854.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 901.25
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 4326.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2875.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 61138.25
 	}
 }
@@ -663,31 +663,31 @@
 491 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1545.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3605.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2721.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 47568.0
 	}
 
@@ -697,7 +697,7 @@
 492 = {
 	aristocrats = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -705,7 +705,7 @@
 
 	clergymen = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -713,13 +713,13 @@
 
 	craftsmen = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 8000.0
 	}
 
 	artisans = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 3090.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -727,7 +727,7 @@
 
 	soldiers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -735,7 +735,7 @@
 
 	farmers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 45354.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -743,37 +743,37 @@
 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	craftsmen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2000
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 17415.5
 	}
 }
@@ -781,7 +781,7 @@
 493 = {
 	aristocrats = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -789,7 +789,7 @@
 
 	officers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -797,7 +797,7 @@
 
 	bureaucrats = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -805,7 +805,7 @@
 
 	clergymen = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 386.25
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -813,13 +813,13 @@
 
 	craftsmen = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 2000.0
 	}
 
 	artisans = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 1802.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -827,7 +827,7 @@
 
 	soldiers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -835,7 +835,7 @@
 
 	labourers = {
 		culture = basque
-		religion = catholic
+		religion = earth_pony
 		size = 34075.75
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -843,43 +843,43 @@
 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1287.5
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 20574.25
 	}
 }
@@ -887,31 +887,31 @@
 494 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 875.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 36925.5
 	}
 
@@ -921,55 +921,55 @@
 495 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1648.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 772.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 15450.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 58813.0
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 2008.5
 	}
 }
@@ -977,61 +977,61 @@
 496 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1905.5
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 36513.5
 	}
 
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	labourers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 16505.75
 	}
 }
@@ -1039,7 +1039,7 @@
 497 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1236.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1047,7 +1047,7 @@
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1055,7 +1055,7 @@
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2832.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1063,7 +1063,7 @@
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1071,7 +1071,7 @@
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 53045.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1083,97 +1083,97 @@
 498 = {
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 1751.0
 	}
 
 	officers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	bureaucrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 849.75
 	}
 
 	craftsmen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 11000
 	}
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 31930.0
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 43821.75
 	}
 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	craftsmen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2000
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 9270.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 14608.75
 	}
 }
@@ -1181,38 +1181,38 @@
 499 = {
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 
 	craftsmen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 2000
 	}
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 1802.5
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 32299.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1220,38 +1220,38 @@
 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 
 	craftsmen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 18158.0
 	}
 }
@@ -1259,7 +1259,7 @@
 500 = {
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1267,7 +1267,7 @@
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1275,7 +1275,7 @@
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 2832.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1283,7 +1283,7 @@
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1291,7 +1291,7 @@
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 24874.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1299,31 +1299,31 @@
 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1287.5
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 11613.25
 	}
 }
@@ -1331,7 +1331,7 @@
 501 = {
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 875.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1339,7 +1339,7 @@
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1347,13 +1347,13 @@
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1361,7 +1361,7 @@
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 38985.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1369,7 +1369,7 @@
 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1377,7 +1377,7 @@
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 		militancy = 8
 		rebel_type = carlist_rebels
@@ -1385,19 +1385,19 @@
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 18179.5
 	}
 }
@@ -1405,61 +1405,61 @@
 502 = {
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 34299.0
 	}
 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	labourers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 16377.0
 	}
 
@@ -1469,109 +1469,109 @@
 503 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1133.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	clerks = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2900
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 10330.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 12060.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 27037.0
 	}
 
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	officers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	bureaucrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	clerks = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	craftsmen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 11700
 	}
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 28865.25
 	}
 }
@@ -1579,61 +1579,61 @@
 504 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 22299.5
 	}
 
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 1751.0
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 27063.25
 	}
 }
@@ -1641,61 +1641,61 @@
 505 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1133.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 540.75
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 51319.75
 	}
 
 	aristocrats = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	artisans = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	labourers = {
 		culture = catalan
-		religion = catholic
+		religion = earth_pony
 		size = 39449.0
 	}
 
@@ -1705,43 +1705,43 @@
 506 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1133.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 540.75
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 7210.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 43646.25
 	}
 }
@@ -1749,31 +1749,31 @@
 507 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 21655.75
 	}
 }
@@ -1781,31 +1781,31 @@
 508 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2472.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 46968.0
 	}
 
@@ -1815,49 +1815,49 @@
 509 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1854.0
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	craftsmen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5000
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 25750.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3090.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 59066.0
 	}
 }
@@ -1865,31 +1865,31 @@
 510 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1751.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 824.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 9270.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 70555.0
 	}
 }
@@ -1897,31 +1897,31 @@
 511 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 386.25
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 32316.25
 	}
 }
@@ -1929,31 +1929,31 @@
 512 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 875.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 16995.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 66589.5
 	}
 
@@ -1963,43 +1963,43 @@
 513 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2832.5
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 978.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 15450.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3090.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 75035.5
 	}
 }
@@ -2007,31 +2007,31 @@
 514 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2781.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 927.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 18025.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 80752.0
 	}
 }
@@ -2039,31 +2039,31 @@
 515 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1699.5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 54178.0
 	}
 }
@@ -2071,31 +2071,31 @@
 516 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1751.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 59946.0
 	}
 
@@ -2106,43 +2106,43 @@
 2136 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 849.75
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 540.75
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 48435.75
 	}
 

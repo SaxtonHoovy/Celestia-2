@@ -4,49 +4,49 @@
 1955 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3.09
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 2.06
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5.15
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5.15
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 5.15
 	}
 
 	artisans = {
 		culture = fang
-		religion = catholic
+		religion = earth_pony
 		size = 123.60000000000001
 	}
 
 	soldiers = {
 		culture = fang
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = fang
-		religion = catholic
+		religion = earth_pony
 		size = 1575.9
 	}
 

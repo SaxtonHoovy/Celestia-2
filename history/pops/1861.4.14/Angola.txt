@@ -4,61 +4,61 @@
 1999 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	aristocrats = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 1257.5
 	}
 
 	farmers = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 14896.5
 	}
 
@@ -139,31 +139,31 @@
 2001 = {
 	aristocrats = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 2103.0
 	}
 
 	farmers = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 10570.5
 	}
 
@@ -320,31 +320,31 @@
 
 	aristocrats = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 437.75
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 927.0
 	}
 
 	soldiers = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	farmers = {
 		culture = bakongo
-		religion = catholic
+		religion = earth_pony
 		size = 15681.75
 	}
 

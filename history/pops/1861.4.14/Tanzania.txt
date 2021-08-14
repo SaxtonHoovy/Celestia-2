@@ -4,43 +4,43 @@
 2036 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 978.5
 	}
 
 	bureaucrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	officers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 540.75
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 2515.0
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 33809.75
 	}
 
@@ -52,31 +52,31 @@
 
 	aristocrats = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 3759.5
 	}
 }
@@ -84,31 +84,31 @@
 2037 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 746.75
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 1280.25
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 11948.0
 	}
 
@@ -120,31 +120,31 @@
 
 	aristocrats = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = sukuma
-		religion = sunni
+		religion = changeling
 		size = 2729.5
 	}
 }
@@ -152,31 +152,31 @@
 2038 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 1158.75
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 1309.0
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 15192.5
 	}
 
@@ -220,31 +220,31 @@
 2039 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 1280.25
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 11046.75
 	}
 
@@ -468,31 +468,31 @@
 
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 3759.5
 	}
 
@@ -824,31 +824,31 @@
 
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 3630.75
 	}
 
@@ -1114,97 +1114,97 @@
 2048 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 540.75
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 3530.0
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 7313.0
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 154.5
 	}
 
 	bureaucrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 77.25
 	}
 
 	officers = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 463.5
 	}
 
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 1081.5
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 231.75
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 19698.75
 	}
 

@@ -3,49 +3,49 @@
 2240 = {
 	aristocrats = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	artisans = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	soldiers = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 1750
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 1200
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 

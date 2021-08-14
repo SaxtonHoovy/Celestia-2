@@ -3,31 +3,31 @@
 253 = {
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1985
 	}
 
@@ -37,43 +37,43 @@
 366 = {
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 515.0
 	}
 
 	bureaucrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 360.5
 	}
 
 	officers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 386.25
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 3347.5
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 51834.75
 	}
 }
@@ -81,31 +81,31 @@
 367 = {
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1515.0
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 29900.0
 	}
 }
@@ -113,31 +113,31 @@
 368 = {
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1515.0
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 23720.0
 	}
 
@@ -147,27 +147,27 @@
 2557 = {
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1030.0
 	}
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 128.75
 	}
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 14832.0
 	}
 }
@@ -178,67 +178,67 @@
 370 = {
 	bureaucrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 128.75
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1257.5
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 13445.75
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 669.5
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	officers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 2575.0
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 40530.0
 	}
 }
@@ -246,49 +246,49 @@
 371 = {
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 128.75
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1257.5
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 16123.75
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 6800.0
 	}
 
@@ -298,67 +298,67 @@
 372 = {
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1287.5
 	}
 
 	capitalists = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 	
 	bureaucrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 515.0
 	}
 
 	officers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 772.5
 	}
 
 	craftsmen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 10000.0
 	}
 	
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 24780.0
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 10300.0
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 50710.0
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 1030.0
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 1030.0
 	}
 }
@@ -366,43 +366,43 @@
 373 = {
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	clerks = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 100.0
 	}
 	
 	craftsmen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 4000.0
 	}
 	
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 2990.0
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 38487.5
 	}
 }
@@ -411,31 +411,31 @@
 
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 70
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 105
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 1050
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 5275
 	}
 

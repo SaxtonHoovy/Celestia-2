@@ -4,61 +4,61 @@
 943 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1751.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 824.0
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 643.75
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 849.75
 	}
 
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 8000.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3811.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 78056.5
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 5.15
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 509.85
 	}
 }
@@ -66,43 +66,43 @@
 1014 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2163.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1081.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4635.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1081.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 97438.0
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 710.7
 	}
 }
@@ -110,91 +110,91 @@
 1015 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3347.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 643.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 43414.5
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 824.0
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 3605.0
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 875.5
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 83275.5
 	}
 
 	clergymen = {
 		culture = byelorussian
-		religion = orthodox
+		religion = pegasus
 		size = 180.25
 	}
 
 	artisans = {
 		culture = byelorussian
-		religion = orthodox
+		religion = pegasus
 		size = 824.0
 	}
 
 	soldiers = {
 		culture = byelorussian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	farmers = {
 		culture = byelorussian
-		religion = orthodox
+		religion = pegasus
 		size = 19389.75
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 1019.7
 	}
 }
@@ -202,43 +202,43 @@
 1016 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3296.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1673.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7416.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1699.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154010.75
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 1019.7
 	}
 }
@@ -248,67 +248,67 @@
 977 = {
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 25132.0
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3605.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1545.0
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1184.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1725.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 8549.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3725.25
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 122697.5
 	}
 }
@@ -316,31 +316,31 @@
 1017 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2832.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1699.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 21699.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 134139.5
 	}
 }
@@ -348,61 +348,61 @@
 1018 = {
 	aristocrats = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 2575.0
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1622.25
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 6540.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 21648.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 131384.25
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 283.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1442.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5309.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 22732.75
 	}
 }
@@ -410,61 +410,61 @@
 1019 = {
 	aristocrats = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 2575.0
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1751.0
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 8806.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 24120.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 138774.5
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3605.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2188.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2214.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 202884.25
 	}
 }
@@ -474,103 +474,103 @@
 979 = {
 	aristocrats = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 695.25
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 334.75
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1802.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 29097.5
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 231.75
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 386.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7673.5
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1828.25
 	}
 }
@@ -578,61 +578,61 @@
 1045 = {
 	aristocrats = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 11458.75
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7544.75
 	}
 }
@@ -640,61 +640,61 @@
 1046 = {
 	aristocrats = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 9476.0
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7493.25
 	}
 
@@ -732,115 +732,115 @@
 1047 = {
 	aristocrats = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1699.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 25441.0
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7982.5
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1107.25
 	}
 
 	clergymen = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 }
@@ -850,67 +850,67 @@
 981 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 334.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1596.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 334.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 29303.5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 3424.75
 	}
 }
@@ -918,7 +918,7 @@
 982 = {
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
@@ -938,37 +938,37 @@
 983 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 15.450000000000001
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1375.05
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 298.7
 	}
 }
@@ -976,49 +976,49 @@
 984 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1879.75
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 2884.0
 	}
 }
@@ -1026,49 +1026,49 @@
 988 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2832.5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 3836.75
 	}
 }
@@ -1076,13 +1076,13 @@
 2587 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 303.85
 	}
 
@@ -1102,43 +1102,43 @@
 2588 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4841.0
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 504.7
 	}
 }
@@ -1148,31 +1148,31 @@
 985 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3620.4500000000003
 	}
 
@@ -1204,49 +1204,49 @@
 987 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2858.25
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 1905.5
 	}
 }
@@ -1254,13 +1254,13 @@
 2589 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 97.85000000000001
 	}
 
@@ -1280,25 +1280,25 @@
 2700 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1416.25
 	}
 
@@ -1332,19 +1332,19 @@
 986 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 602.5500000000001
 	}
 
@@ -1364,13 +1364,13 @@
 2689 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 504.7
 	}
 
@@ -1390,13 +1390,13 @@
 2687 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 97.85000000000001
 	}
 
@@ -1416,13 +1416,13 @@
 2688 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 200.85
 	}
 
@@ -1442,13 +1442,13 @@
 2699 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 149.35
 	}
 
@@ -1470,67 +1470,67 @@
 989 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2575.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1905.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 9270.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1905.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 172679.5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 9604.75
 	}
 }
@@ -1538,49 +1538,49 @@
 990 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 3811.0
 	}
 }
@@ -1588,31 +1588,31 @@
 991 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1442.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1158.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5665.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1133.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103901.25
 	}
 }
@@ -1620,31 +1620,31 @@
 992 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1184.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 978.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4635.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 978.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 90073.5
 	}
 }
@@ -1652,55 +1652,55 @@
 993 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 334.75
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 180.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 978.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 17870.5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 4763.75
 	}
 }
@@ -1710,145 +1710,145 @@
 994 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 669.5
 	}
 
 	capitalists = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 200
 	}
 	
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1802.5
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1236.0
 	}
 
 	clerks = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1100
 	}
 	
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 16000
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 84412.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10300.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7201.0
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 721.0
 	}
 
 	officers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 7055.5
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = finnish
-		religion = protestant
+		religion = unicorn
 		size = 180.25
 	}
 
 	clerks = {
 		culture = finnish
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 	
 	craftsmen = {
 		culture = finnish
-		religion = protestant
+		religion = unicorn
 		size = 5900
 	}
 	
 	artisans = {
 		culture = finnish
-		religion = protestant
+		religion = unicorn
 		size = 7240.0
 	}
 
 	soldiers = {
 		culture = finnish
-		religion = protestant
+		religion = unicorn
 		size = 231.75
 	}
 
 	farmers = {
 		culture = finnish
-		religion = protestant
+		religion = unicorn
 		size = 9008.0
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 762.2
 	}
 }
@@ -1856,55 +1856,55 @@
 995 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 386.25
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 978.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 17793.25
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 6720.75
 	}
 }
@@ -1912,31 +1912,31 @@
 996 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 334.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1699.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 31080.25
 	}
 }
@@ -1944,55 +1944,55 @@
 997 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 489.25
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 283.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1442.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 26625.5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 1905.5
 	}
 }
@@ -2000,55 +2000,55 @@
 2580 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 12257.0
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 2858.25
 	}
 }
@@ -2058,43 +2058,43 @@
 998 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3218.75
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 746.75
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 489.25
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1802.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7261.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1854.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 166937.25
 	}
 }
@@ -2102,55 +2102,55 @@
 999 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1751.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 978.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4635.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 91515.5
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 10557.5
 	}
 }
@@ -2158,55 +2158,55 @@
 1000 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 978.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2626.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 540.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 47869.25
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 9604.75
 	}
 }
@@ -2214,31 +2214,31 @@
 1001 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2060.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1133.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5665.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1133.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103309.0
 	}
 }
@@ -2248,55 +2248,55 @@
 1003 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 592.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 54512.75
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 504.7
 	}
 }
@@ -2304,55 +2304,55 @@
 1004 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 669.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 437.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2163.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 437.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 39552.0
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 1905.5
 	}
 }
@@ -2360,31 +2360,31 @@
 1005 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1545.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 875.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4429.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 901.25
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 80829.25
 	}
 }
@@ -2392,91 +2392,91 @@
 1006 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2060.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1184.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4686.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1184.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 107635.0
 	}
 
 	clergymen = {
 		culture = estonian
-		religion = protestant
+		religion = unicorn
 		size = 15.450000000000001
 	}
 
 	artisans = {
 		culture = estonian
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = estonian
-		religion = protestant
+		religion = unicorn
 		size = 10.3
 	}
 
 	farmers = {
 		culture = estonian
-		religion = protestant
+		religion = unicorn
 		size = 952.75
 	}
 
 	clergymen = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 46.35
 	}
 
 	artisans = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 30.900000000000002
 	}
 
 	farmers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 2858.25
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 659.2
 	}
 }
@@ -2484,31 +2484,31 @@
 1007 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1570.75
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 824.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 824.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 75061.25
 	}
 }
@@ -2518,73 +2518,73 @@
 1008 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1648.0
 	}
 
 	capitalists = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 100
 	}
 	
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2060.0
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1596.5
 	}
 
 	clerks = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 200
 	}
 
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 16000
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 81350.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 31210.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 21474.0
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 556.2
 	}
 }
@@ -2592,31 +2592,31 @@
 1009 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2575.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1442.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7364.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1493.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 134415.0
 	}
 }
@@ -2624,37 +2624,37 @@
 1010 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4480.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2240.25
 	}
 
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2000.0
 	}
 	
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 11278.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2266.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 203304.75
 	}
 }
@@ -2662,31 +2662,31 @@
 1011 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5047.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2961.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 14935.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3090.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 272666.75
 	}
 }
@@ -2694,37 +2694,37 @@
 1012 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4635.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3090.0
 	}
 
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4000.0
 	}
 	
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 14935.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3090.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 277190.0
 	}
 }
@@ -2732,37 +2732,37 @@
 1013 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2369.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2000.0
 	}
 	
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 6952.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 125977.5
 	}
 }
@@ -2772,73 +2772,73 @@
 1020 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4944.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1313.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1081.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2729.5
 	}
 
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7000.0
 	}
 	
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10918.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2729.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 242234.25
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1828.25
 	}
 }
@@ -2846,55 +2846,55 @@
 1021 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4017.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2394.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 12154.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2420.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 222093.75
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1828.25
 	}
 }
@@ -2902,31 +2902,31 @@
 1022 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1854.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1364.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 6952.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 127488.25
 	}
 }
@@ -2934,31 +2934,31 @@
 1023 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 978.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 798.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4017.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 798.25
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 73748.0
 	}
 }
@@ -2966,31 +2966,31 @@
 1024 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3914.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 71894.0
 	}
 }
@@ -2998,55 +2998,55 @@
 1025 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 6025.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3090.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 15450.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3193.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 290511.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1828.25
 	}
 }
@@ -3056,79 +3056,79 @@
 1026 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3914.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 746.75
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2420.5
 	}
 
 	clerks = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 50.0
 	}
 	
 	craftsmen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3950.0
 	}
 	
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 12360.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2446.25
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 218686.0
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1828.25
 	}
 }
@@ -3136,31 +3136,31 @@
 1027 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3965.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 798.25
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 72774.65000000001
 	}
 }
@@ -3168,55 +3168,55 @@
 1028 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1751.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1236.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1236.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 114227.0
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 4763.75
 	}
 }
@@ -3224,31 +3224,31 @@
 1029 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1622.25
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1158.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5768.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1158.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 106682.25
 	}
 }
@@ -3258,139 +3258,139 @@
 1030 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 721.0
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2008.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 22608.5
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1390.5
 	}
 
 	bureaucrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	officers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 67362.0
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 283.25
 	}
 
 	artisans = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 2935.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	farmers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 31955.75
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 1236.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 13956.5
 	}
 }
@@ -3398,79 +3398,79 @@
 1031 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1905.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1364.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 6849.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1364.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 125505.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1879.75
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 4815.25
 	}
 }
@@ -3478,115 +3478,115 @@
 1032 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 592.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2832.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 52916.25
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1236.0
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 3914.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 71585.0
 	}
 
 	clergymen = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = ugrian
-		religion = orthodox
+		religion = pegasus
 		size = 4815.25
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	farmers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 14162.5
 	}
 }
@@ -3594,91 +3594,91 @@
 1033 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 952.75
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 721.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3708.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 746.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 74881.0
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 7493.25
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 4686.5
 	}
 }
@@ -3686,61 +3686,61 @@
 1034 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2266.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 40788.0
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 7493.25
 	}
 }
@@ -3748,31 +3748,31 @@
 1035 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2214.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 6952.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 127102.0
 	}
 }
@@ -3782,73 +3782,73 @@
 1036 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4635.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1236.0
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 5665.0
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 6180.0
 	}
 }
@@ -3856,103 +3856,103 @@
 1037 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 6695.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 46710.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 206.0
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 15089.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 6952.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1467.75
 	}
 }
@@ -3960,31 +3960,31 @@
 1038 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1390.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 849.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4377.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 875.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 80056.75
 	}
 }
@@ -3992,55 +3992,55 @@
 1039 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5150.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2575.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 12720.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 229535.5
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 180.25
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1081.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 20162.25
 	}
 }
@@ -4048,61 +4048,61 @@
 1040 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2755.25
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 4686.5
 	}
 }
@@ -4110,55 +4110,55 @@
 1041 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 901.25
 	}
 
@@ -4198,115 +4198,115 @@
 1042 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2781.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1854.0
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2085.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10815.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2163.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 194283.75
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1802.5
 	}
 
 	officers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 824.0
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 74778.0
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	officers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	farmers = {
 		culture = tatar
-		religion = orthodox
+		religion = pegasus
 		size = 14111.0
 	}
 }
@@ -4314,31 +4314,31 @@
 1043 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 540.75
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 38805.25
 	}
 }
@@ -4346,31 +4346,31 @@
 1044 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1596.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 28634.0
 	}
 }
@@ -4380,55 +4380,55 @@
 1048 = {
 	aristocrats = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 1442.0
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 334.75
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 31543.75
 	}
 
 	clergymen = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = greek
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 }
@@ -4436,31 +4436,31 @@
 1049 = {
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 13209.75
 	}
 }
@@ -4468,103 +4468,103 @@
 1050 = {
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 12463.0
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 14497.25
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	officers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 12128.25
 	}
 
@@ -4602,85 +4602,85 @@
 1051 = {
 	clergymen = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	farmers = {
 		culture = ukrainian
-		religion = orthodox
+		religion = pegasus
 		size = 6720.75
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5587.75
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 437.75
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 18720.25
 	}
 }
@@ -4690,109 +4690,109 @@
 1052 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 669.5
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	officers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 1854.0
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 33758.25
 	}
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	farmers = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 581.95
 	}
 
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 2806.75
 	}
 }
@@ -4800,79 +4800,79 @@
 1053 = {
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 669.5
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 1802.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 33166.0
 	}
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	farmers = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 684.95
 	}
 
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 4712.25
 	}
 }
@@ -4882,55 +4882,55 @@
 1054 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 849.75
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 180.25
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 16917.75
 	}
 }
@@ -4938,31 +4938,31 @@
 1055 = {
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 15939.25
 	}
 }
@@ -4970,37 +4970,37 @@
 1056 = {
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 695.25
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	officers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 1751.0
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 31801.25
 	}
 }
@@ -5008,61 +5008,61 @@
 1057 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 9450.25
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 6566.25
 	}
 }
@@ -5072,43 +5072,43 @@
 1058 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 824.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 283.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5098.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 93472.5
 	}
 }
@@ -5116,31 +5116,31 @@
 1059 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2317.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 42642.0
 	}
 }
@@ -5148,31 +5148,31 @@
 1060 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2317.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 42075.5
 	}
 }
@@ -5180,49 +5180,49 @@
 1061 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 11510.25
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 1416.25
 	}
 }
@@ -5230,49 +5230,49 @@
 2686 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4789.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 5.15
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 }
@@ -5282,25 +5282,25 @@
 1066 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1802.5
 	}
 
@@ -5338,31 +5338,31 @@
 1062 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 12426.95
 	}
 
@@ -5464,19 +5464,19 @@
 2683 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 113.3
 	}
 
@@ -5574,19 +5574,19 @@
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 113.3
 	}
 }
@@ -5606,19 +5606,19 @@
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 92.7
 	}
 }
@@ -5656,19 +5656,19 @@
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 92.7
 	}
 }
@@ -5804,19 +5804,19 @@
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 46.35
 	}
 }
@@ -5918,19 +5918,19 @@
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 46.35
 	}
 }
@@ -5972,67 +5972,67 @@
 1063 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 721.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2060.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 191837.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 2858.25
 	}
 }
@@ -6040,31 +6040,31 @@
 1064 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2884.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 52864.75
 	}
 }
@@ -6072,49 +6072,49 @@
 2698 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 11510.25
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 2858.25
 	}
 }
@@ -6122,61 +6122,61 @@
 1067 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 24823.0
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = tatar
-		religion = sunni
+		religion = changeling
 		size = 2806.75
 	}
 }
@@ -6184,25 +6184,25 @@
 1068 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2858.25
 	}
 
@@ -6242,31 +6242,31 @@
 2648 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 15.450000000000001
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 139.05
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1828.25
 	}
 
@@ -6302,31 +6302,31 @@
 
 	bureaucrats = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 4835.85
 	}
 }
@@ -6334,25 +6334,25 @@
 1069 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
@@ -6388,25 +6388,25 @@
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 489.25
 	}
 }
@@ -6414,25 +6414,25 @@
 2695 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
@@ -6468,25 +6468,25 @@
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 489.25
 	}
 }
@@ -6494,25 +6494,25 @@
 2650 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
@@ -6548,25 +6548,25 @@
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 489.25
 	}
 }
@@ -6606,25 +6606,25 @@
 2672 = {
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
@@ -6660,25 +6660,25 @@
 
 	clergymen = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	soldiers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = yakut
-		religion = orthodox
+		religion = pegasus
 		size = 731.3000000000001
 	}
 }
@@ -6750,19 +6750,19 @@
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 46.35
 	}
 }
@@ -7144,19 +7144,19 @@
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 20.6
 	}
 }
@@ -7356,19 +7356,19 @@
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1.03
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 7.21
 	}
 }
@@ -7536,19 +7536,19 @@
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 20.6
 	}
 }
@@ -7871,25 +7871,25 @@
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 92.7
 	}
 }
@@ -8053,31 +8053,31 @@
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 46.35
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 15.450000000000001
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 8.24
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 700.4
 	}
 }
@@ -8115,19 +8115,19 @@
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 242.05
 	}
 }
@@ -8225,31 +8225,31 @@
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 4.12
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 41.2
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3.09
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 824.0
 	}
 }
@@ -8613,43 +8613,43 @@
 1077 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 643.75
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 47122.5
 	}
 
@@ -8847,43 +8847,43 @@
 1075 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 66.95
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 56402.8
 	}
 
@@ -9049,43 +9049,43 @@
 1078 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 66.95
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 386.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1905.5
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 386.25
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 34875.8
 	}
 
@@ -9123,31 +9123,31 @@
 1079 = {
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 283.25
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 283.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 28479.5
 	}
 
@@ -9252,25 +9252,25 @@
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 473.8
 	}
 
@@ -9751,13 +9751,13 @@
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 2.06
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 23.69
 	}
 }

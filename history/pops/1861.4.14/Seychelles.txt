@@ -4,25 +4,25 @@
 2127 = {
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 20.6
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 30.900000000000002
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 1210.25
 	}
 }

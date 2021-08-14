@@ -1,3 +1,4 @@
+owner = PEG
 add_core = PEG
 add_core = RKV 
 trade_goods = cattle

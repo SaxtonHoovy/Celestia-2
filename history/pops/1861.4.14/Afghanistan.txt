@@ -4,109 +4,109 @@
 1209 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 2832.5
 	}
 
 	bureaucrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 849.75
 	}
 
 	officers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 643.75
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1416.25
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 5562.0
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 11330.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 116415.75
 	}
 
 	aristocrats = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	officers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1004.25
 	}
 
 	artisans = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 5047.0
 	}
 
 	soldiers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 91438.25
 	}
 
 	aristocrats = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 142.14000000000001
 	}
 
 	artisans = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 824.0
 	}
 
 	soldiers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 154.5
 	}
 
 	farmers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 15101.86
 	}
 }
@@ -114,91 +114,91 @@
 1211 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1648.0
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 837.39
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1699.5
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 849.75
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 78395.36
 	}
 
 	aristocrats = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 399.64
 	}
 
 	artisans = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1957.0
 	}
 
 	soldiers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	farmers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 35624.61
 	}
 
 	aristocrats = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 90.64
 	}
 
 	artisans = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 103.0
 	}
 
 	farmers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 9436.86
 	}
 }
@@ -206,61 +206,61 @@
 1212 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 15089.5
 	}
 
 	aristocrats = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	clergymen = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 657.14
 	}
 
 	artisans = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 3296.0
 	}
 
 	soldiers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 56559.36
 	}
 }
@@ -268,121 +268,121 @@
 1213 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 15089.5
 	}
 
 	aristocrats = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 142.14000000000001
 	}
 
 	artisans = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 721.0
 	}
 
 	soldiers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 12269.36
 	}
 
 	aristocrats = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 1081.5
 	}
 
 	clergymen = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 515.0
 	}
 
 	artisans = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 2781.0
 	}
 
 	soldiers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 540.75
 	}
 
 	farmers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 50701.75
 	}
 
 	aristocrats = {
 		culture = hazara
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = hazara
-		religion = sunni
+		religion = changeling
 		size = 193.64000000000001
 	}
 
 	artisans = {
 		culture = hazara
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = hazara
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = hazara
-		religion = sunni
+		religion = changeling
 		size = 16080.36
 	}
 }
@@ -390,61 +390,61 @@
 1214 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 296.64
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1442.0
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 25504.86
 	}
 
 	aristocrats = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1776.75
 	}
 
 	clergymen = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 901.25
 	}
 
 	artisans = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 4532.0
 	}
 
 	soldiers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 82400.0
 	}
 }
@@ -452,91 +452,91 @@
 1215 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1236.0
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 643.75
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 56006.25
 	}
 
 	aristocrats = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 219.39000000000001
 	}
 
 	artisans = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1081.5
 	}
 
 	soldiers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 18887.11
 	}
 
 	aristocrats = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 180.25
 	}
 
 	clergymen = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 103.0
 	}
 
 	artisans = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 540.75
 	}
 
 	soldiers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 103.0
 	}
 
 	farmers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 10403.0
 	}
 }
@@ -544,31 +544,31 @@
 1216 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1339.0
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 695.25
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 3450.5
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 59724.55
 	}
 }
@@ -576,61 +576,61 @@
 1217 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1390.5
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 708.64
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 3502.0
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 695.25
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 63743.61
 	}
 
 	aristocrats = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 116.39
 	}
 
 	artisans = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 128.75
 	}
 
 	farmers = {
 		culture = hazara
-		religion = shiite
+		religion = griffon
 		size = 12269.36
 	}
 }
@@ -640,61 +640,61 @@
 1210 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 64.89
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 5677.360000000001
 	}
 
 	aristocrats = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 1699.5
 	}
 
 	clergymen = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 798.25
 	}
 
 	artisans = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 3862.5
 	}
 
 	soldiers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = tajik
-		religion = sunni
+		religion = changeling
 		size = 69859.75
 	}
 

@@ -6,67 +6,67 @@
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 115
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 105
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 55
 	}
 	
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 195
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3960
 	}
 
 	farmers = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 895
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 105
 	}
 	
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 925
 	}
 
 	aristocrats = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 105
 	}
 	
 	artisans = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 135
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 1690
 	}
 	
@@ -82,31 +82,31 @@
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 20
 	}
 	
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 335
 	}
 	
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 105
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 650
 	}
 
@@ -121,31 +121,31 @@
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 60
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 480
 	}
 	
 	farmers = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 105
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 1045
 	}
 
@@ -159,31 +159,31 @@
 2512 = {
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 40
 	}
 	
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 115
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2335
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 635
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 460
 	}
 	
@@ -221,13 +221,13 @@
 	
 	artisans = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 45
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 1145
 	}
 
@@ -237,55 +237,55 @@
 2513 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 115
 	}
 	
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 135
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 6415
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 105
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 	
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 905
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 }
@@ -293,31 +293,31 @@
 2514 = {
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 20
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 545
 	}
 	
 	farmers = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 145
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 }
@@ -326,37 +326,37 @@
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 120
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2985
 	}
 
 	farmers = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 355
 	}
 	
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 520
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 }
@@ -364,31 +364,31 @@
 2516 = {
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 40
 	}
 	
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2890
 	}
 	
 	farmers = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 345
 	}
 
 	farmers = {
 		culture = maori
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 }

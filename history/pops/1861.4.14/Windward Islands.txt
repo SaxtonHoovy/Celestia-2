@@ -3,61 +3,61 @@
 2229 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2675
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1500
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 120
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 4200
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 380
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 28900
 	}
 }
@@ -65,49 +65,49 @@
 2231 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 175
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 6000
 	}
 }
@@ -115,49 +115,49 @@
 2232 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 170
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 130
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 65
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 70
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 5610
 	}
 }
@@ -165,55 +165,55 @@
 2233 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 260
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 210
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 55
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 160
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 80
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 7150
 	}
 }
@@ -221,49 +221,49 @@
 2409 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 7120
 	}
 

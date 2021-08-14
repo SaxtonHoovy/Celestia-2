@@ -131,31 +131,31 @@
 
 	aristocrats = {
 		culture = baguirmi
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = baguirmi
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = baguirmi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = baguirmi
-		religion = sunni
+		religion = changeling
 		size = 15.450000000000001
 	}
 
 	farmers = {
 		culture = baguirmi
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
@@ -320,31 +320,31 @@
 1971 = {
 	aristocrats = {
 		culture = fur
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = fur
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = fur
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = fur
-		religion = sunni
+		religion = changeling
 		size = 15.450000000000001
 	}
 
 	farmers = {
 		culture = fur
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 

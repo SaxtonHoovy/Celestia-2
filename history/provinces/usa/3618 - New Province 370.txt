@@ -1,3 +1,5 @@
+owner = TMA
+add_core = TMA
 trade_goods = fish
 life_rating = 35 
 

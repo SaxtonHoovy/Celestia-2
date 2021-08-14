@@ -1,2 +1,4 @@
+owner = TAL
+add_core = TAL
 trade_goods = fish
 life_rating = 35 

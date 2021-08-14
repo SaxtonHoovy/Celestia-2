@@ -1,8 +1,8 @@
 capital = 507
-primary_culture = yankee
+primary_culture = canterlot
 culture = dixie
 culture = texan
-religion = protestant
+religion = earth_pony
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_liberty
@@ -10,11 +10,9 @@ literacy = 0.50
 civilized = yes
 
 
-#GreaterPowers = prestige
-prestige = 30
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
@@ -27,9 +25,9 @@ political_parties = gerrymandering
 wage_reform = trinket_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
-health_care = no_health_care
+state_benefits = no_state_benefits
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+conscription = volunteer_only 
 school_reforms = no_schools
 
 ruling_party = EQU_conservative
@@ -116,9 +114,9 @@ political_parties = gerrymandering
 wage_reform = trinket_wage
 work_hours = ten_hours
 safety_regulations = no_safety
-health_care = no_health_care
+state_benefits = no_state_benefits
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+conscription = volunteer_only 
 school_reforms = low_schools
 
 

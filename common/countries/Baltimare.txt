@@ -197,7 +197,7 @@ unit_names = {
 		"Great Northern" "Northern Pacific" Comfort Mercy "President Grant" "President Lincoln" Artemis
 	}
 	commerce_raider = {
-		Atlanta Boston Chicago Harvard Vesuvius Badger Panther Yale Prairie Buffalo Yankee Yosemite Dixie "St. Louis" "St. Paul"
+		Atlanta Boston Chicago Harvard Vesuvius Badger Panther Yale Prairie Buffalo canterlot Yosemite Dixie "St. Louis" "St. Paul"
 		"New Orleans" Albany
 	}
 }

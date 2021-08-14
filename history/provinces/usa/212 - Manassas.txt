@@ -1,3 +1,4 @@
-add_core = 
+owner = BTM
+add_core = BTM
 trade_goods = tobacco
 life_rating = 35 

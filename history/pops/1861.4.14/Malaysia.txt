@@ -23,19 +23,19 @@
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 7841.0
 	}
 
@@ -67,37 +67,37 @@
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 180.25
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 12579.0
 	}
 }
@@ -123,25 +123,25 @@
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 17317.0
 	}
 }
@@ -150,43 +150,43 @@
 1385 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	officers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1230.0
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 25711.5
 	}
 
@@ -212,31 +212,31 @@
 1387 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1230.0
 	}
 
 	labourers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 16338.5
 	}
 
@@ -262,31 +262,31 @@
 1390 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1077.25
 	}
 
 	labourers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 9596.25
 	}
 }
@@ -294,31 +294,31 @@
 2575 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1230.0
 	}
 
 	labourers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 29677.0
 	}
 
@@ -345,31 +345,31 @@
 1389 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1390.5
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1257.5
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 25544.0
 	}
 
@@ -395,31 +395,31 @@
 1391 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 437.75
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1360.5
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 37929.75
 	}
 
@@ -448,43 +448,43 @@
 1393 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	bureaucrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	officers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1077.25
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 10587.75
 	}
 }
@@ -492,31 +492,31 @@
 1394 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 330.0
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 8549.0
 	}
 
@@ -572,31 +572,31 @@
 1395 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 3806.75
 	}
 
@@ -664,31 +664,31 @@
 
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 1177.25
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 8617.75
 	}
 
@@ -745,31 +745,31 @@
 
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 2832.5
 	}
 

@@ -4,79 +4,79 @@
 1884 = {
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 4841.0
 	}
 
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 695.25
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1699.5
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 32934.25
 	}
 
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 901.25
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 2369.0
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 43285.75
 	}
 
@@ -115,31 +115,31 @@
 1886 = {
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1931.25
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 37363.25
 	}
 
@@ -185,61 +185,61 @@
 1885 = {
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 952.75
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1957.0
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 37311.75
 	}
 
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 824.0
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 1699.5
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 437.75
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 32676.75
 	}
 

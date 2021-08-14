@@ -55,7 +55,7 @@ country = {
 	TECH_FACTOR_VASSAL = 0.5, -- cost reduction factor if overlord has research the tech
 	MAX_SUPPRESSION = 100,
 	PRESTIGE_HIT_ON_BREAK_COUNTRY = -0.20, -- percentage reduction when country gets taken by rebels
-	MIN_MOBILIZE_LIMIT = 3,
+	MIN_MOBILIZE_LIMIT = 1,
 	POP_GROWTH_COUNTRY_CACHE_DAYS = 30, -- period of cached pop growth (used for player)
 	NEWSPAPER_PRINTING_FREQUENCY = 350, -- days frequency when the news attempt to be printed (may not print if not enough facts collected, and retry after another X days)
 	NEWSPAPER_TIMEOUT_PERIOD = 890, -- the max period for news that may be printed. The probability is decreased with time.
@@ -505,7 +505,7 @@ diplomacy = {
 	
 	MIN_WARSCORE_TO_INTERVENE = -1,
 	MIN_MONTHS_TO_INTERVENE = 0,
-	MAX_WARSCORE_FROM_BATTLES = 50,
+	MAX_WARSCORE_FROM_BATTLES = 80,
 	
 	GUNBOAT_DIPLOMATIC_COST = 1,
 	GUNBOAT_RELATION_ON_ACCEPT = 1,
@@ -608,7 +608,7 @@ diplomacy = {
 	TWS_GRACE_PERIOD_DAYS = 730, -- Ticking War Score delay before it starts falling down for not fulfilling CB.
 	TWS_CB_LIMIT_DEFAULT = 100,
 	TWS_FULFILLED_IDLE_SPACE = 0.75, -- How much % the CB fulfillment must done, so TWS starts ticking.
-	TWS_BATTLE_MIN_COUNT = 5, -- At least X battles before the aspect of wins will count
+	TWS_BATTLE_MIN_COUNT = 1, -- At least X battles before the aspect of wins will count
 	TWS_BATTLE_MAX_ASPECT = 8.0, -- Max allowed battle wins aspect for TWS
 	LARGE_POPULATION_INFLUENCE_PENALTY = -0.4,
 	LONE_BACKER_PRESTIGE_FACTOR = 0.05 -- prestige boost for being only defender backer in crisis
@@ -624,16 +624,16 @@ pops = {
 
 
 	ASSIMILATION_SCALE = 0.004,
-	CONVERSION_SCALE = 0.01,
+	CONVERSION_SCALE = 0.00,
 	IMMIGRATION_SCALE = 0.004,
 
 	PROMOTION_SCALE = 0.002,
 	PROMOTION_ASSIMILATION_CHANCE = 1.0,
 	LUXURY_THRESHOLD = 500,
 	BASE_GOODS_DEMAND = 0.8,
-	BASE_POPGROWTH = 0.002,
+	BASE_POPGROWTH = 0.0,
 	MIN_LIFE_RATING_FOR_GROWTH = 20,
-	LIFE_RATING_GROWTH_BONUS = 0.0015,
+	LIFE_RATING_GROWTH_BONUS = 0.001,
 	LIFE_NEED_STARVATION_LIMIT = 0.5,
 
 	MIL_LACK_EVERYDAY_NEED = 0.1,
@@ -670,7 +670,7 @@ pops = {
 	REDUCTION_AFTER_DEFEAT = 3.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
 																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
 	
-	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
+	POP_TO_LEADERSHIP = 0.0, -- how much leadership every 1000 officers gives each day.
 	ARTISAN_MIN_PRODUCTIVITY = 5, -- Minimum efficieny of an artisan
 	SLAVE_GROWTH_DIVISOR = 10, -- Slaves have N times lower growth
 	
@@ -707,15 +707,15 @@ ai =
 	POP_PROJECT_INVESTMENT_MAX_BUDGET_FACTOR = 0.25, -- how much % of our current budget can be spend on the pop project investments.
 	RELATION_LIMIT_NO_ALLIANCE_OFFER = 0, -- if relation lower then this value, AI will not ally
 	NAVAL_SUPPLY_PENALTY_LIMIT = 0.2, -- AI will allow to have max X% of supply penalty (when too little naval bases)
-	CHANCE_BUILD_RAILROAD = 0.2, -- chances in % of AI decisions (max value 1.0)
-	CHANCE_BUILD_NAVAL_BASE = 0.75,
+	CHANCE_BUILD_RAILROAD = 0.75, -- chances in % of AI decisions (max value 1.0)
+	CHANCE_BUILD_NAVAL_BASE = 0.2,
 	CHANCE_BUILD_FORT = 0.5,
 	CHANCE_INVEST_POP_PROJ = 0.16,
 	CHANCE_FOREIGN_INVEST = 0.16,
 	TWS_AWARENESS_SCORE_LOW_CAP = 0.2, -- AI will always add CBs if current warscore is less then that number (including TWS)
 	TWS_AWARENESS_SCORE_ASPECT = 0.5, -- AI will not add any more CBs when TWS is more then X% of total WS. (to not destroy the progress)
-	PEACE_BASE_RELUCTANCE = 20, -- AI base stubbornness to refuse peace (always applied)
-	PEACE_TIME_MONTHS = 30, -- months of additional AI stubbornness in a war
+	PEACE_BASE_RELUCTANCE = 0, -- AI base stubbornness to refuse peace (always applied)
+	PEACE_TIME_MONTHS = 5, -- months of additional AI stubbornness in a war
 	PEACE_TIME_FACTOR = 0.6, -- after months of stubbornness the effect of time passed is multiplied by this
 	PEACE_TIME_FACTOR_NO_GOALS = 2.0, -- this extra time factor is applied after PEACE_TIME_FACTOR if we ahve no wargoals
 	PEACE_WAR_EXHAUSTION_FACTOR = 4.0, -- AI willingness to peace based on war exhaustion
@@ -727,8 +727,8 @@ ai =
 	PEACE_ALLY_WAR_EXHAUSTION_MULT = 1.0, -- Multiplies PEACE_WAR_EXHAUSTION_FACTOR for allies in a war
 	PEACE_ALLY_WAR_DIRECTION_MULT = 0, -- Multiplies PEACE_WAR_DIRECTION_FACTOR for allies in a war
 	PEACE_ALLY_FORCE_BALANCE_MULT = 0, -- Multiplies PEACE_FORCE_BALANCE_FACTOR for allies in a war
-	AGGRESSION_BASE = 5, -- general AI aggression
-	AGGRESSION_UNCIV_BONUS = 10, -- additional AI civ aggression against uncivs
+	AGGRESSION_BASE = 8, -- general AI aggression
+	AGGRESSION_UNCIV_BONUS = 20, -- additional AI civ aggression against uncivs
 	FLEET_SIZE = 30, -- AI will attempt to keep fleets of roughly this size (fewer fleets generally results in more competent naval AI)
 	MIN_FLEETS = 1, -- Minimum amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)
 	MAX_FLEETS = 10, -- Maximal amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)

@@ -6,115 +6,115 @@
 603 = {
 	aristocrats = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 1770
 	}
 
 	capitalists = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 1065
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 1300
 	}
 
 	officers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 405
 	}
 
 	clerks = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 6900
 	}
 
 	artisans = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 7595
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 9110
 	}
 
 	farmers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 72835
 	}
 
 	aristocrats = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	bureaucrats = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 600
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	officers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 225
 	}
 
 	clerks = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 5300
 	}
 
 	artisans = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 4270
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 5125
 	}
 
 	farmers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 39825
 	}
 }
@@ -123,43 +123,43 @@
 606 = {
 	officers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 70
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 840
 	}
 
 	clerks = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 2450
 	}
 
 	artisans = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 4700
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 4100
 	}
 
 	farmers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 54815
 	}
 }
@@ -168,31 +168,31 @@
 2568 = {
 	officers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 30
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 365
 	}
 
 	artisans = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 1350
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	farmers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 26230
 	}
 }
@@ -200,61 +200,61 @@
 611 = {
 	officers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 190
 	}
 
 	artisans = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 675
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 600
 	}
 
 	farmers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 14030
 	}
 
 	officers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 95
 	}
 
 	artisans = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 375
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 310
 	}
 
 	farmers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 6920
 	}
 
@@ -266,61 +266,61 @@
 605 = {
 	aristocrats = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 3505
 	}
 
 	capitalists = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	officers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 115
 	}
 
 	bureaucrats = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 2630
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 1460
 	}
 
 	clerks = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 4900
 	}
 
 	artisans = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 8760
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 4670
 	}
 
 	farmers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 90575
 	}
 }
@@ -329,86 +329,86 @@
 
 	officers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 275
 	}
 
 	clerks = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 2450
 	}
 
 	artisans = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 2495
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 3155
 	}
 
 	farmers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 41500
 	}
 
 	officers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 35
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 
 	clerks = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 2450
 	}
 
 	artisans = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 1950
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 2335
 	}
 
 	farmers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 31880
 	}
 }
@@ -417,93 +417,93 @@
 607 = {
 	officers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 580
 	}
 
 
 	clerks = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 2450
 	}
 
 	artisans = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 5065
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 3290
 	}
 
 	farmers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 43335
 	}
 
 	aristocrats = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 410
 	}
 
 	officers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	clergymen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 675
 	}
 
 
 	clerks = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	craftsmen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 2450
 	}
 
 	artisans = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 3975
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 2735
 	}
 
 	farmers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 35645
 	}
 }
@@ -512,25 +512,25 @@
 
 	clergymen = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 275
 	}
 
 	artisans = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 4805
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 1070
 	}
 
 	farmers = {
 		culture = swiss
-		religion = protestant
+		religion = unicorn
 		size = 15700
 	}
 }
@@ -538,25 +538,25 @@
 609 = {
 	clergymen = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 285
 	}
 
 	artisans = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 1300
 	}
 
 	soldiers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	farmers = {
 		culture = swiss
-		religion = catholic
+		religion = earth_pony
 		size = 20015
 	}
 

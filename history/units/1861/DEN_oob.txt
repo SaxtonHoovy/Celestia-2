@@ -6,7 +6,7 @@ PRU = {
 
 #Leaders
 leader = {
-	name = "Christian de Meza"
+	name = "pony de Meza"
 	date = 1850.1.1
 	type = land
 	personality = ballsy
@@ -15,7 +15,7 @@ leader = {
 }
 
 leader = {
-	name = "Niels Christian Lunding"
+	name = "Niels pony Lunding"
 	date = 1852.1.1
 	type = land
 	personality = resourceful

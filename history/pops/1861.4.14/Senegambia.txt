@@ -5,31 +5,31 @@
 1783 = {
 	aristocrats = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 1854.0
 	}
 }
@@ -37,31 +37,31 @@
 1786 = {
 	aristocrats = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	artisans = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 1107.25
 	}
 
 	soldiers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	farmers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 21501.25
 	}
 
@@ -75,31 +75,31 @@
 1787 = {
 	aristocrats = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	farmers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 8368.75
 	}
 
@@ -151,43 +151,43 @@
 2573 = {
 	aristocrats = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	bureaucrats = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	officers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 746.75
 	}
 
 	soldiers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 9785.0
 	}
 
@@ -202,31 +202,31 @@
 1784 = {
 	aristocrats = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = wolof
-		religion = sunni
+		religion = changeling
 		size = 2781.0
 	}
 
@@ -238,31 +238,31 @@
 
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 1751.0
 	}
 }
@@ -271,31 +271,31 @@
 1785 = {
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 978.5
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 17819.0
 	}
 
@@ -335,43 +335,43 @@
 1789 = {
 	aristocrats = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 566.5
 	}
 
 	bureaucrats = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	officers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 1210.25
 	}
 
 	soldiers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 22248.0
 	}
 
@@ -385,31 +385,31 @@
 1790 = {
 	aristocrats = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	clergymen = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 746.75
 	}
 
 	soldiers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	farmers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 11948.0
 	}
 
@@ -423,31 +423,31 @@
 1791 = {
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 592.25
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1210.25
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 22299.5
 	}
 

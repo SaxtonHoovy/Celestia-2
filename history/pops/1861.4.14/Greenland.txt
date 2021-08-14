@@ -3,25 +3,25 @@
 251 = {
 	bureaucrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	farmers = {
 		culture = inuit
-		religion = protestant
+		religion = unicorn
 		size = 1275
 	}
 }
@@ -29,19 +29,19 @@
 2591 = {
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = inuit
-		religion = protestant
+		religion = unicorn
 		size = 385
 	}
 }
@@ -49,19 +49,19 @@
 2632 = {
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = inuit
-		religion = protestant
+		religion = unicorn
 		size = 385
 	}
 }
@@ -69,19 +69,19 @@
 2636 = {
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 3
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 7
 	}
 
 	farmers = {
 		culture = inuit
-		religion = protestant
+		religion = unicorn
 		size = 240
 	}
 }

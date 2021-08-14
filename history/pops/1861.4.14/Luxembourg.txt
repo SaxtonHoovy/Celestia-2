@@ -4,79 +4,79 @@
 397 = {
 	aristocrats = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = north_german
-		religion = catholic
+		religion = earth_pony
 		size = 15347.0
 	}
 
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	officers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 1802.5
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 24076.25
 	}
 

@@ -125,51 +125,38 @@ party_issues = {
 	}
 	citizenship_policy = {
 		residency = {
-			rules = { primary_culture_voting = yes }
 		}
 		limited_citizenship = {
-			rules = { culture_voting = yes }
-			global_assimilation_rate = 0.10
 		}
 		full_citizenship = {
-			rules = { all_voting = yes }
-			global_assimilation_rate = 0.25
 		}
 	}
 	war_policy = {
 		jingoism = {
-			max_military_spending = 1.0
 			supply_consumption = 0.1
 			war_exhaustion_effect = 0.5
 			is_jingoism = yes
 			cb_generation_speed_modifier = 0.3
-			mobilization_impact = 4
 			org_regain = 0.5
 			reinforce_speed = 0.5
 		}
 		pro_military = {
-			max_military_spending = 1.0
 			war_exhaustion_effect = 0.7
 			cb_generation_speed_modifier = 0.2
-			mobilization_impact = 3
 			org_regain = 0.25
 			reinforce_speed = 0.25
 		}
 		anti_military = {
-			max_military_spending = 0.75
 			supply_consumption = -0.25
 			war_exhaustion_effect = 1.2
 			cb_generation_speed_modifier = -0.2
-			mobilization_impact = 2
 			org_regain = -0.25
 			reinforce_speed = -0.25
 		}
 		pacifism = {
-			max_military_spending = 0.5
 			supply_consumption = -0.5
 			war_exhaustion_effect = 1.5
 			cb_generation_speed_modifier = -0.4
-			mobilization_impact = 1
 			org_regain = -0.5
 			reinforce_speed = -0.5
 		}
@@ -186,16 +173,6 @@ political_reforms = {
 		}
 		no_slavery = {
 			rules = { slavery_allowed = no }
-			allow = { 
-				OR = {
-					NOT = { 
-						has_country_flag = the_slavery_debate
-					}
-					year = 1875
-				}
-			}
-
-			global_immigrant_attract = 0.01
 		}
 	}
 
@@ -211,35 +188,24 @@ political_reforms = {
 			middle_vote = 0
 			poor_vote = 0
 			
-			global_immigrant_attract = 0.01
-		}
-		wealth_weighted_voting = {
-			rich_vote = 2
-			middle_vote = 1
-			poor_vote = 0
-			
-			global_immigrant_attract = 0.02
 		}
 		wealth_voting = {
 			rich_vote = 1
 			middle_vote = 1
 			poor_vote = 0
 			
-			global_immigrant_attract = 0.03
 		}
 		universal_weighted_voting = {
 			rich_vote = 3
 			middle_vote = 2
 			poor_vote = 1
 			
-			global_immigrant_attract = 0.04
 		}
 		universal_voting = {
 			rich_vote = 1
 			middle_vote = 1
 			poor_vote = 1
 			
-			global_immigrant_attract = 0.05
 		}
 	}
 	
@@ -250,21 +216,18 @@ political_reforms = {
 		}
 		appointed = {
 			rules = { rich_only = yes }
-			global_immigrant_attract = 0.01
 		}
 		state_equal_weight = {
 			rules = { state_vote = yes }
 			allow = { 
 				NOT = { vote_franschise = none_voting }
 			}
-			global_immigrant_attract = 0.02
 		}
 		population_equal_weight = {
 			rules = { population_vote = yes }
 			allow = { 
 				NOT = { vote_franschise = none_voting }
 			}
-			global_immigrant_attract = 0.03
 		}
 	}
 
@@ -294,7 +257,6 @@ political_reforms = {
 		}
 		yes_meeting = {
 			issue_change_speed = 1
-			global_immigrant_attract = 0.01
 			suppression_points_modifier = -0.25
 		}
 
@@ -307,15 +269,14 @@ political_reforms = {
 		}
 		censored_press = {
 			issue_change_speed = 0.25
-			global_immigrant_attract = 0.01
 		}
 		free_press = {
 			literacy_con_impact = 0.25
 			issue_change_speed = 0.5
-			global_immigrant_attract = 0.02
 			suppression_points_modifier = -0.25
 		}
 	}
+	
 	trade_unions = {
 		next_step_only = yes
 		no_trade_unions = {
@@ -323,15 +284,25 @@ political_reforms = {
 		}
 		state_controlled = {
 			social_reform_desire = 0.1
-			global_immigrant_attract = 0.01
 		}
 		non_socialist = {
 			social_reform_desire = 0.2
-			global_immigrant_attract = 0.02
 		}
 		all_trade_unions = {
 			social_reform_desire = 0.3
-			global_immigrant_attract = 0.03
+		}
+	}
+	
+	citizenship = {
+		next_step_only = yes
+		residency = {
+			rules = { primary_culture_voting = yes }
+		}
+		limited_citizenship = {
+			rules = { culture_voting = yes }
+		}
+		full_citizenship = {
+			rules = { all_voting = yes }
 		}
 	}
 	
@@ -339,22 +310,17 @@ political_reforms = {
 		next_step_only = yes
 		underground_parties = {
 			ruling_party_support = 0.2
-			global_immigrant_attract = 0.01
 		}
 		harassment = {
 			ruling_party_support = 0.15
-			global_immigrant_attract = 0.02
 		}
 		gerrymandering = {
 			ruling_party_support = 0.10
-			global_immigrant_attract = 0.03
 		}
 		non_secret_ballots = {
 			ruling_party_support = 0.05
-			global_immigrant_attract = 0.04
 		}
 		secret_ballots = {
-			global_immigrant_attract = 0.05
 		}
 	}
 }
@@ -371,22 +337,18 @@ social_reforms = {
 		trinket_wage = {
 			minimum_wage = 0.20
 			administrative_multiplier = 1
-			global_immigrant_attract = 0.01
 		}
 		low_minimum_wage = {
 			minimum_wage = 0.40
 			administrative_multiplier = 2
-			global_immigrant_attract = 0.02
 		}
 		acceptable_minimum_wage = {
 			minimum_wage = 0.60
 			administrative_multiplier = 3
-			global_immigrant_attract = 0.03
 		}
 		good_minimum_wage = {
 			minimum_wage = 0.80
 			administrative_multiplier = 4
-			global_immigrant_attract = 0.04
 		}
 	}
 	work_hours = {
@@ -399,28 +361,24 @@ social_reforms = {
 			poor_luxury_needs = -0.05
 			middle_luxury_needs = -0.05
 			administrative_multiplier = 1
-			global_immigrant_attract = 0.01
 		}
 		twelve_hours = {
 			factory_throughput = -0.10
 			poor_luxury_needs = -0.10
 			middle_luxury_needs = -0.10
 			administrative_multiplier = 2
-			global_immigrant_attract = 0.02
 		}
 		ten_hours = {
 			factory_throughput = -0.15
 			poor_luxury_needs = -0.15
 			middle_luxury_needs = -0.15
 			administrative_multiplier = 3
-			global_immigrant_attract = 0.03
 		}
 		eight_hours = {
 			factory_throughput = -0.20
 			poor_luxury_needs = -0.20
 			middle_luxury_needs = -0.20
 			administrative_multiplier = 4
-			global_immigrant_attract = 0.04
 		}
 	}
 	safety_regulations = {
@@ -434,7 +392,6 @@ social_reforms = {
 			middle_everyday_needs = -0.05
 			poor_everyday_needs = -0.05
 			administrative_multiplier = 1
-			global_immigrant_attract = 0.01
 		}
 		low_safety = {
 			factory_cost = 0.50
@@ -442,7 +399,6 @@ social_reforms = {
 			middle_everyday_needs = -0.10
 			poor_everyday_needs = -0.10
 			administrative_multiplier = 2
-			global_immigrant_attract = 0.02
 		}
 		acceptable_safety = {
 			factory_cost = 0.75
@@ -450,7 +406,6 @@ social_reforms = {
 			middle_everyday_needs = -0.15
 			poor_everyday_needs = -0.15
 			administrative_multiplier = 3
-			global_immigrant_attract = 0.03
 		}
 		good_safety = {
 			factory_cost = 1.0
@@ -458,7 +413,6 @@ social_reforms = {
 			middle_everyday_needs = -0.20
 			poor_everyday_needs = -0.20
 			administrative_multiplier = 4
-			global_immigrant_attract = 0.04
 		}
 	}
 	
@@ -468,68 +422,96 @@ social_reforms = {
 		}
 		trinket_subsidies = {
 			unemployment_benefit = 0.25
-			global_immigrant_attract = 0.01
 		}
 		low_subsidies = {
 			unemployment_benefit = 0.50
-			global_immigrant_attract = 0.02
 		}
 		acceptable_subsidies = {
 			unemployment_benefit = 0.75
-			global_immigrant_attract = 0.03
 		}
 		good_subsidies = {
 			unemployment_benefit = 1.0
-			global_immigrant_attract = 0.04
 		}
 	}
-	pensions = {
+	
+	conscription = {
 		next_step_only = yes
-		no_pensions = {
-		}
-		trinket_pensions = {
-			pension_level	= 0.05
-			global_immigrant_attract = 0.01
-		}
-		low_pensions = {
-			pension_level	= 0.10
-			global_immigrant_attract = 0.02
-		}
-		acceptable_pensions = {
-			pension_level	= 0.15
-			global_immigrant_attract = 0.03
-		}
-		good_pensions = {
-			pension_level	= 0.20
-			global_immigrant_attract = 0.04
-		}
-	}	
-	health_care = {
 		administrative = yes
-		next_step_only = yes
-		no_health_care = {
+		volunteer_only = {
+		mobilization_impact = 100
+		mobilisation_size = 0.02
 		}
-		trinket_health_care = {
-			global_population_growth = 0.002
-			administrative_multiplier = 1
-			global_immigrant_attract = 0.01
+		limited_conscription = {
+		mobilization_impact = 100
+		mobilisation_size = 0.10
 		}
-		low_health_care = {
-			global_population_growth = 0.004
-			administrative_multiplier = 2
-			global_immigrant_attract = 0.02
+		extensive_conscription = {
+		mobilization_impact = 100
+		mobilisation_size = 0.20
 		}
-		acceptable_health_care = {
-			global_population_growth = 0.006
-			administrative_multiplier = 3
-			global_immigrant_attract = 0.03
+		service_by_requirement = {
+		mobilization_impact = 100
+		mobilisation_size = 0.40
 		}
-		good_health_care = {
-			global_population_growth = 0.008
-			administrative_multiplier = 4
-			global_immigrant_attract = 0.04
+		scraping_the_barrel = {
+		mobilization_impact = 100
+		mobilisation_size = 0.80
 		}
 	}
+	
+	officer_corp = {
+		next_step_only = yes
+		administrative = yes
+		no_officer_corp = {
+		land_organisation = -0.167
+		}
+		trinket_officer_corp = {
+		min_military_spending = 0.2
+		leadership = 0.5
+		}
+		low_officer_corp = {
+		land_organisation = 0.167
+		min_military_spending = 0.4
+		leadership = 1
+		}
+		acceptable_officer_corp = {
+		min_military_spending = 0.6
+		land_organisation = 0.333
+		leadership = 2
+		}
+		good_officer_corp = {
+		min_military_spending = 0.8
+		land_organisation = 0.5
+		leadership = 4
+		}
+	}
+	
+	state_benefits = {
+		next_step_only = yes
+		no_state_benefits = {
+		}
+		trinket_state_benefits = {
+			global_population_growth = 0.002
+			pension_level	= 0.05
+			administrative_multiplier = 1
+		}
+		low_state_benefits = {
+			global_population_growth = 0.004
+			pension_level	= 0.10
+			administrative_multiplier = 2
+		}
+		acceptable_state_benefits = {
+			global_population_growth = 0.006
+			pension_level	= 0.15
+			administrative_multiplier = 3
+		}
+		good_state_benefits = {
+			global_population_growth = 0.008
+			pension_level	= 0.20
+			administrative_multiplier = 4
+		}
+	}
+	
 
 	school_reforms = {
 		next_step_only = yes

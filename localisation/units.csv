@@ -1,13 +1,13 @@
 army_base;Armies;Armées;Armeen;;Ejércitos;;;;;;;;;x;;;;
 navy_base;Navies;Flottes;Flotten;;Flotas;;;;;;;;;x;;;;
-infantry;Infantry;Fantassin;Infanterie;;Infantería;;;;;;;;;x;;;;
+infantry;Militia;Fantassin;Infanterie;;Infantería;;;;;;;;;x;;;;
 cavalry;Cavalry;Cavalier;Kavallerie;;Caballería;;;;;;;;;x;;;;
 cuirassier;Cuirassier;Cuirassier;Kürassier;;Coraceros;;;;;;;;;x;;;;
 dragoon;Dragoon;Dragon;Dragoner;;Dragones;;;;;;;;;x;;;;
 engineer;Engineer;Sapeur;Pionier;;Ingenieros;;;;;;;;;x;;;;
 guard;Guard;Garde;Garde;;Guardia;;;;;;;;;x;;;;
 hussar;Hussar;Hussard;Husar;;Húsares;;;;;;;;;x;;;;
-irregular;Militia;Milicien;Freischärler;;Irregulares;;;;;;;;;x;;;;
+irregular;Infantry;Milicien;Freischärler;;Irregulares;;;;;;;;;x;;;;
 artillery;Artillery;Canons;Artillerie;;Artillería;;;;;;;;;x;;;;
 tank;Armor;Blindé;Panzer;;Blindados;;;;;;;;;x;;;;
 plane;Airplane;Avion;Flugzeug;;Aviación;;;;;;;;;x;;;;

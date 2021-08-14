@@ -3,7 +3,7 @@
 2244 = {
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 15
 	}
 }
@@ -11,13 +11,13 @@
 2406 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = changeling
 		size = 120
 	}
 }

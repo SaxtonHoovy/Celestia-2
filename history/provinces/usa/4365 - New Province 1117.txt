@@ -1,3 +1,5 @@
+owner = TCE
+add_core = TCE
 trade_goods = fish
 life_rating = 35 
 

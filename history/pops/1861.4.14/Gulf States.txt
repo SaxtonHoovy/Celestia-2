@@ -4,31 +4,31 @@
 935 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 2806.75
 	}
 }
@@ -38,61 +38,61 @@
 1162 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	bureaucrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 15.450000000000001
 	}
 
 	officers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 1905.5
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = shiite
+		religion = griffon
 		size = 154.5
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = shiite
+		religion = griffon
 		size = 2884.0
 	}
 }
@@ -100,31 +100,31 @@
 1165 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 1879.75
 	}
 }
@@ -134,43 +134,43 @@
 1167 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	bureaucrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 15.450000000000001
 	}
 
 	officers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 3759.5
 	}
 }
@@ -178,31 +178,31 @@
 1168 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 3733.75
 	}
 

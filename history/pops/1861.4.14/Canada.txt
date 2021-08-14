@@ -455,31 +455,31 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 110
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 200
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
@@ -491,7 +491,7 @@
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 110
 	}
 
@@ -530,31 +530,31 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1055
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 280
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 120
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
@@ -566,7 +566,7 @@
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 115
 	}
 
@@ -733,13 +733,13 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 185
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
@@ -750,14 +750,14 @@
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 200
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
@@ -796,19 +796,19 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 125
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 225
 	}
 
@@ -847,7 +847,7 @@
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
@@ -889,25 +889,25 @@
 22 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
@@ -1071,25 +1071,25 @@
 26 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
@@ -1127,25 +1127,25 @@
 27 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
@@ -1183,25 +1183,25 @@
 28 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
@@ -1334,25 +1334,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 }
@@ -1392,25 +1392,25 @@
 32 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
@@ -1448,25 +1448,25 @@
 33 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
@@ -1504,25 +1504,25 @@
 34 = {
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
@@ -1599,7 +1599,7 @@
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
@@ -1623,37 +1623,37 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 835
 	}
 
 	farmers = {
 		culture = metis
-		religion = protestant
+		religion = unicorn
 		size = 575
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 280
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 175
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
@@ -1756,25 +1756,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 }
@@ -1812,25 +1812,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 }
@@ -1868,25 +1868,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 }
@@ -1924,25 +1924,25 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 }
@@ -1951,25 +1951,25 @@
 47 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 65
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 400
 	}
 
@@ -2001,25 +2001,25 @@
 48 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 750
 	}
 
@@ -2051,25 +2051,25 @@
 49 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 185
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
@@ -2099,19 +2099,19 @@
 
 	clergymen = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	farmers = {
 		culture = metis
-		religion = catholic
+		religion = earth_pony
 		size = 925
 	}
 }
@@ -2119,25 +2119,25 @@
 50 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 190
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
@@ -2152,37 +2152,37 @@
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 115
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 75
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 390 
 	}
 }
@@ -2190,49 +2190,49 @@
 52 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 95
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 95
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 5
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 225
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 55
 	}
 
@@ -2246,79 +2246,79 @@
 53 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 30
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 400
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1200
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 14165
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 130
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 350
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 4815
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 345
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 3435
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 1030
 	}
 
@@ -2329,14 +2329,14 @@
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 455
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 545
 	}
 
@@ -2345,25 +2345,25 @@
 2594 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
@@ -2395,25 +2395,25 @@
 2628 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
@@ -2451,224 +2451,224 @@
 46 = {
 	aristocrats = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 225
 	}
 
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2000
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	clerks = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 3700
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 9000
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 3100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 39740
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 85
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1140
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 350
 	}
 
 	clerks = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2300
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3435
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 7630
 	}
 
 	aristocrats = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1200
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 700
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 12525
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	farmers = {
 		culture = irish
-		religion = protestant
+		religion = unicorn
 		size = 1600
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = protestant
+		religion = unicorn
 		size = 305
 	}
 
 	clergymen = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 100
 	}
 
 
 	craftsmen = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 200
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 2545
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 335
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 475
 	}
 
 	capitalists = {
 		culture = anglo_canadian
-		religion = jewish
+		religion = buffalo
 		size = 100
 	}
 }
@@ -2676,157 +2676,157 @@
 54 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 750
 	}
 
 	clerks = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 800
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 3175
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1500
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 29515
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	clerks = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1200
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1900
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 8900
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 815
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1485
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 6865
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = protestant
+		religion = unicorn
 		size = 730
 	}
 
 	clergymen = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 200
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 3425
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 1170
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 2190
 	}
 }
@@ -2834,332 +2834,332 @@
 55 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1200
 	}
 
 	clerks = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5400
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 3000
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 36660
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	clerks = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1200
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 11075
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1475
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 925
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 7315
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = protestant
+		religion = unicorn
 		size = 655
 	}
 
 	craftsmen = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 3605
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 110
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 3250
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 630
 	}
 	clerks = {
 		culture = anglo_canadian
-		religion = jewish
+		religion = buffalo
 		size = 100
 	}
 }
 #Kingston (209500/52360 POPS) - 25 POPs, +75 POPs
-#25 native POPs moved to Barrie, 65 black POPs received from Barrie, 10 jewish POPs received from Kingston
+#25 native POPs moved to Barrie, 65 black POPs received from Barrie, 10 buffalo POPs received from Kingston
 56 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 600
 	}
 
 	clerks = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 750
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 3950
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 25365
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 145
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 270
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3165
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3880
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	clerks = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 2740
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 155
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 6330
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 1425
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 	farmers = {
 		culture = anglo_canadian
-		religion = jewish
+		religion = buffalo
 		size = 10
 	}
 }
@@ -3168,103 +3168,103 @@
 57 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 255
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1270
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1250
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10105
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2070
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1785
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1295
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 4510
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 295
 	}
 
 	farmers = {
 		culture = polish
-		religion = catholic
+		religion = earth_pony
 		size = 115
 	}
 }
@@ -3273,25 +3273,25 @@
 59 = {
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 30
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
@@ -3323,25 +3323,25 @@
 2592 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
@@ -3398,25 +3398,25 @@
 2626 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
@@ -3472,25 +3472,25 @@
 2627 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
@@ -3546,25 +3546,25 @@
 60 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
@@ -3596,25 +3596,25 @@
 2593 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 65
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
@@ -3647,223 +3647,223 @@
 58 = {
 	capitalists = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	aristocrats = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 180
 	}
 
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 90
 	}
 
 	bureaucrats = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1265
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 400
 	}
 
 	clerks = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2000
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2950
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 95
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 175
 	}
 
 	clerks = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1990
 	}
 
 	bureaucrats = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1265
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 350
 	}
 
 	clerks = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3495
 	}
 
 	aristocrats = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1400
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 14380
 	}
 
 	clerks = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 5000
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 2000
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 42925
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 4010
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 645
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 705
 	}
 
 	capitalists = {
 		culture = anglo_canadian
-		religion = jewish
+		religion = buffalo
 		size = 105
 	}
 }
@@ -3871,43 +3871,43 @@
 61 = {
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	officers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 5
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 85
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 165
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 35
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3505
 	}
 
 	farmers = {
 		culture = cree
-		religion = catholic
+		religion = earth_pony
 		size = 145
 	}
 	
@@ -3923,31 +3923,31 @@
 
 	officers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 5
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1795
 	}
 
@@ -3985,197 +3985,197 @@
 63 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 40
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 130
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2680
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 960
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3760
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1485
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 55
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 105
 	}
 
 }
 #Trois-Rivieres (72755/18190 POPS) - 10 POPs
-#5 native and 5 jewish POPs moved to Quebec City
+#5 native and 5 buffalo POPs moved to Quebec City
 64 = {
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 90
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 130
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	officers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 420
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 975
 	}
 
 	craftsmen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 15160
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 115
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 35
 	}
 
@@ -4184,133 +4184,133 @@
 65 = {
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 400
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1920
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 985
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 135
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 4185
 	}
 
 	officers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 20
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 4035
 	}
 
 	craftsmen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1600
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1020
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 18380
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 215
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 2330
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 60
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 55
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = jewish
+		religion = buffalo
 		size = 35
 	}
 }
@@ -4318,127 +4318,127 @@
 66 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 40
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 160
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	craftsmen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2000
 	}
 	
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1520
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 2930
 	}
 
 	officers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 40
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1400
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 4725
 	}
 
 	craftsmen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3000
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 49840
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 2220
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 2295
 	}
 }
@@ -4446,79 +4446,79 @@
 67 = {
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1630
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 270
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1225
 	}
 
 	officers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 20
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 690
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3330
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1500
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 26955
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 375
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 20
 	}
 }
@@ -4527,151 +4527,151 @@
 68 = {
 	aristocrats = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 410
 	}
 
 	bureaucrats = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 985
 	}
 
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 155
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 600
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 3885
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 5000
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 21475
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3405
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 2810
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3800
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 6400
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 290
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 455
 	}
 
 	farmers = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 230
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 210
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 265
 	}
 }
@@ -4680,103 +4680,103 @@
 69 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 10
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 80
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2790
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 40
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1750
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3500
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 825
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 145
 	}
 }
@@ -4785,109 +4785,109 @@
 70 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 20
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1200
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 800
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 6020
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 400
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1870
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1115
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 545
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2375
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 450
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 4620
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 }
@@ -4896,115 +4896,115 @@
 71 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 115
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 460
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 7300
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2000
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 18165
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 935
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 2595
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 225
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3075
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1405
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 170
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 345
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 20
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 1180
 	}
 }
@@ -5012,103 +5012,103 @@
 72 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 20
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 360
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2100
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 13480
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 135
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1360
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3530
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 20
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 580
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 510
 	}
 
 	farmers = {
 		culture = native_american_minor
-		religion = catholic
+		religion = earth_pony
 		size = 180
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = canterlot
+		religion = unicorn
 		size = 145
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 285
 	}
 }
@@ -5118,264 +5118,264 @@
 
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 105
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 3695
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1905
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 3825
 	}
 
 	clergymen = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 330
 	}
 
 	soldiers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 105
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 2265
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 305
 	}
 }
 #Newfoundland Region (123015) - 1857 Census
-#Saint John's (106420/26605 POPs) (50.7% Catholic)
+#Saint John's (106420/26605 POPs) (50.7% earth_pony)
 74 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 160
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 180
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2025
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 9220
 	}
 
 	officers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 1800
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 9470
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 805
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1520
 	}
 }
-#Millertown (16595/4150 POPs) (18.8% Catholic)
+#Millertown (16595/4150 POPs) (18.8% earth_pony)
 75 = {
 	officers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 65
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 345
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = protestant
+		religion = unicorn
 		size = 2585
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 480
 	}
 
 	farmers = {
 		culture = french_canadian
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 210
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 }
@@ -5427,25 +5427,25 @@
 77 = {
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 5
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 85
 	}
 
 	labourers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 450
 	}
 }

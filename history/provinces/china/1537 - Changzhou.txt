@@ -1,3 +1,5 @@
+owner = WIN
+add_core = WIN
 trade_goods = tea
 life_rating = 35 
 

@@ -312,7 +312,7 @@ flintlock_rifles = {
 	cost = 3600
 	unciv_military = yes
 	
-	activate_unit = infantry
+	activate_unit = irregular
 
 	ai_chance = {
 		factor = 1.1
@@ -839,10 +839,7 @@ military_staff_system = {
 	cost = 3600
 	unciv_military = yes
 	
-	army_base = {
-		default_organisation = 5
-		supply_consumption = 0.10
-	}
+	activate_unit = cavalry
 	
 	ai_chance = {
 		factor = 1.1
@@ -883,11 +880,6 @@ military_plans = {
 	cost = 7200
 	unciv_military = yes
 	
-	army_base = {
-		default_organisation = 5
-		supply_consumption = 0.10
-	}
-	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -927,10 +919,7 @@ military_statistics = {
 	cost = 10800
 	unciv_military = yes
 	
-	army_base = {
-		default_organisation = 5
-		supply_consumption = 0.20
-	}
+
 	
 	ai_chance = {
 		factor = 1.1
@@ -971,12 +960,8 @@ military_logistics = {
 	cost = 14400
 	unciv_military = yes
 	
-	army_base = {
-		default_organisation = 5
-		supply_consumption = 0.20
-	}
-	mobilisation_size = 0.05
 	
+
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -1016,10 +1001,8 @@ military_directionism = {
 	cost = 18000
 	unciv_military = yes
 	
-	army_base = {
-		default_organisation = 10
-		supply_consumption = 0.20
-	}
+	
+
 	ai_chance = {
 		factor = 1.5
 		modifier = {
@@ -1061,10 +1044,8 @@ aeronautics = {
 	area = military_science
 	year = 1914
 	cost = 21600
-	army_base = {
-		default_organisation = 10
-		supply_consumption = 0.20
-	}
+
+	
 	
 	unciv_military = yes
 	

@@ -1090,6 +1090,7 @@ become_independent = {
 
 	can_use = {
 		is_our_vassal = THIS
+		is_our_substate = THIS
 	}
 	
 	# THIS - us

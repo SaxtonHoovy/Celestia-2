@@ -4,55 +4,55 @@
 854 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 515.0
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	aristocrats = {
 		culture = maltese
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	bureaucrats = {
 		culture = maltese
-		religion = catholic
+		religion = earth_pony
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = maltese
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	artisans = {
 		culture = maltese
-		religion = catholic
+		religion = earth_pony
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = maltese
-		religion = catholic
+		religion = earth_pony
 		size = 350.2
 	}
 
 	farmers = {
 		culture = maltese
-		religion = catholic
+		religion = earth_pony
 		size = 21089.25
 	}
 

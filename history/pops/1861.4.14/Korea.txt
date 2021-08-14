@@ -51,19 +51,19 @@
 
 	clergymen = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 475
 	}
 
 	farmers = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 }
@@ -285,19 +285,19 @@
 
 	clergymen = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 35
 	}
 
 	artisans = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 665
 	}
 
 	farmers = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 1500
 	}
 }
@@ -455,19 +455,19 @@
 
 	clergymen = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 20
 	}
 
 	artisans = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 330
 	}
 
 	farmers = {
 		culture = korean
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 }

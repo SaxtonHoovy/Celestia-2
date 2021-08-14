@@ -4,185 +4,185 @@
 912 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 	
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 9121.5
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 300
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 309.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 5313.5
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 952.75
 	}
 }
 #Bayrut Region (260000)  #see Israel-Palestine.txt for balance of region
 #under the rule of Egypt in 1836
-#Beirut (128000/32000 POPS) #mashriqi-animist = druze; mashriqi-catholic = maronites
+#Beirut (128000/32000 POPS) #mashriqi-animist = druze; mashriqi-earth_pony = maronites
 913 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	bureaucrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	officers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 1400
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 721.0
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 11011.5
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 400
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 4415.25
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 400
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 8200.5
 	}
 
@@ -206,31 +206,31 @@
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 1931.25
 	}
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 504.7
 	}
 }
@@ -238,49 +238,49 @@
 914 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 9450.25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 1931.25
 	}
 }
@@ -288,85 +288,85 @@
 915 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 1960.0
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = pegasus
 		size = 952.75
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 	
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = earth_pony
 		size = 5001.5
 	}
 
@@ -390,31 +390,31 @@
 
 	aristocrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 77.25
 	}
 
 	craftsmen = { 
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 300
 	}
 	
 	artisans = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 463.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = shiite
+		religion = griffon
 		size = 8300.5
 	}
 

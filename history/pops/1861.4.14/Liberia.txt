@@ -4,67 +4,67 @@
 1887 = {
 	aristocrats = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 20
 	}
 	
 	bureaucrats = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 295
 	}
 
 	officers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 30
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 305
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 1950
 	}
 	
 	clergymen = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	artisans = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 325
 	}
 
 	soldiers = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 300
 	}
 
 	farmers = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 3315
 	}
 
@@ -100,25 +100,25 @@
 
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 465
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 8600
 	}
 
@@ -139,55 +139,55 @@
 1888 = {
 	officers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 30
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 120
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = unicorn
 		size = 1550
 	}
 
 	clergymen = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	artisans = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	soldiers = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = kru
-		religion = protestant
+		religion = unicorn
 		size = 2900
 	}
 	
@@ -232,31 +232,31 @@
 1889 = {
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 23458.25
 	}
 
@@ -294,31 +294,31 @@
 1890 = {
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 566.5
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 10325.75
 	}
 

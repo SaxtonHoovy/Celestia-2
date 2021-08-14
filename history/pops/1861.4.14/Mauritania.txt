@@ -4,43 +4,43 @@
 1775 = {
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	bureaucrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 20.6
 	}
 
 	officers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 5.15
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 231.75
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 952.75
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 18668.75
 	}
 
@@ -54,31 +54,31 @@
 1776 = {
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 11742.0
 	}
 
@@ -93,43 +93,43 @@
 1777 = {
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 401.7
 	}
 
 	bureaucrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	officers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 5.15
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 226.6
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 13724.75
 	}
 
@@ -143,31 +143,31 @@
 1778 = {
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 3579.25
 	}
 
@@ -183,43 +183,43 @@
 1779 = {
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 41.2
 	}
 
 	bureaucrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 3.09
 	}
 
 	officers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 7.21
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 2781.0
 	}
 }
@@ -227,31 +227,31 @@
 1780 = {
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 2781.0
 	}
 }
@@ -259,61 +259,61 @@
 1781 = {
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 2781.0
 	}
 
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 3785.25
 	}
 }
@@ -323,61 +323,61 @@
 1782 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 15.450000000000001
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
 	aristocrats = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = maures
-		religion = sunni
+		religion = changeling
 		size = 2781.0
 	}
 

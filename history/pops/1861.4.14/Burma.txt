@@ -1026,7 +1026,7 @@
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 }
@@ -1129,37 +1129,37 @@
 1345 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10.3
 	}
 
 	aristocrats = {
 		culture = burmese
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = burmese
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = burmese
-		religion = sunni
+		religion = changeling
 		size = 2832.5
 	}
 
 	soldiers = {
 		culture = burmese
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	farmers = {
 		culture = burmese
-		religion = sunni
+		religion = changeling
 		size = 12231.25
 	}
 
@@ -1213,13 +1213,13 @@
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 2008.5
 	}
 

@@ -380,8 +380,8 @@ colonialmigration_chance =
 	factor = 0.25
 
 	modifier = {
-		factor = -0.5
-		is_primary_culture = no
+		factor = 1
+		is_primary_culture = yes
 	}
 	group = {
 		modifier = {
@@ -646,6 +646,12 @@ assimilation_chance =
 		is_accepted_culture = yes
 	}
 
+	modifier = {
+		factor = 100
+		culture = queenless
+		is_state_religion = yes
+	}
+
 
 	group = {
 		modifier = {
@@ -662,71 +668,6 @@ assimilation_chance =
 #general conversion mtth, same for all pops
 conversion_chance = 
 {
-	factor = 1
+	factor = 0
 
-	group = {
-		modifier = {
-			factor = 0.05
-			literacy = 0.4
-		}
-		modifier = {
-			factor = 0.05
-			literacy = 0.5
-		}
-		modifier = {
-			factor = 0.05
-			literacy = 0.6
-		}
-	}
-
-
-	group = {
-		modifier = {
-			factor = 0.2
-			not = { luxury_needs = 0.9 }
-		}
-		modifier = {
-			factor = 0.2
-			not = { luxury_needs = 0.7 }
-		}
-		modifier = {
-			factor = 0.2
-			not = { luxury_needs = 0.5 }
-		}
-	}
-
-	group = {
-		modifier = {
-			factor = 0.05
-			not = { life_needs = 0.9 }
-		}
-		modifier = {
-			factor = 0.05
-			not = { life_needs = 0.8 }
-		}
-		modifier = {
-			factor = 0.05
-			not = { life_needs = 0.7 }
-		}
-	}
-
-	modifier = {
-		factor = 0.15
-		not = { culture = this }
-	}
-
-	group = {
-		modifier = {
-			factor = 0.05
-			unemployment = 0.1
-		}
-		modifier = {
-			factor = 0.05
-			unemployment = 0.2
-		}
-		modifier = {
-			factor = 0.05
-			unemployment = 0.3
-		}
-	}
 }

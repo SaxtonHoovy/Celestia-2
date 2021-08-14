@@ -4,121 +4,121 @@
 354 = {
 	clergymen = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 334.75
 	}
 
 	craftsmen = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 5000.0
 	}
 
 	artisans = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 412.0
 	}
 
 	farmers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 34938.25
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 669.5
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 206.0
 	}
 
 	officers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 77.25
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 6926.75
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	officers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 2961.25
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 51.5
 	}
 }
@@ -126,133 +126,133 @@
 355 = {
 	clergymen = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 1030.0
 	}
 
 	artisans = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 3450.5
 	}
 
 	soldiers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 1184.5
 	}
 
 	farmers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 109695.0
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 1287.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 77.25
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 51.5
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 3991.25
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1596.5
 	}
 
 	aristocrats = {
 		culture = polish
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = polish
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	artisans = {
 		culture = polish
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = polish
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = polish
-		religion = catholic
+		religion = earth_pony
 		size = 7081.25
 	}
 }
@@ -260,103 +260,103 @@
 356 = {
 	clergymen = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 180.25
 	}
 
 	artisans = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	farmers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 27475.25
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 721.0
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 2266.0
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 51.5
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 1570.75
 	}
 
 	aristocrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 1081.5
 	}
 }
@@ -364,73 +364,73 @@
 357 = {
 	clergymen = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 231.75
 	}
 
 	artisans = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	farmers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 29123.25
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 1184.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 772.5
 	}
 }
@@ -438,79 +438,79 @@
 358 = {
 	clergymen = {
 		culture = ugrian
-		religion = protestant
+		religion = unicorn
 		size = 231.75
 	}
 
 	artisans = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 283.25
 	}
 
 	farmers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 30333.5
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 1236.0
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 721.0
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	farmers = {
 		culture = estonian
-		religion = protestant
+		religion = unicorn
 		size = 1545.0
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 978.5
 	}
 }
@@ -518,73 +518,73 @@
 359 = {
 	clergymen = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 180.25
 	}
 
 	artisans = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 206.0
 	}
 
 	farmers = {
 		culture = latvian
-		religion = protestant
+		religion = unicorn
 		size = 22119.25
 	}
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	artisans = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 25.75
 	}
 
 	farmers = {
 		culture = ashkenazi
-		religion = jewish
+		religion = buffalo
 		size = 772.5
 	}
 

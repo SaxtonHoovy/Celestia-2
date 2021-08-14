@@ -4,55 +4,55 @@
 770 = {
 	aristocrats = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 1493.5
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 21501.25
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 927.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 24333.75
 	}
 }
@@ -62,121 +62,121 @@
 771 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	bureaucrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	officers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 40427.5
 	}
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	bureaucrats = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	officers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 3347.5
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 6695.0
 	}
 }
@@ -184,55 +184,55 @@
 772 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 927.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 16892.0
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 10531.75
 	}
 }
@@ -240,55 +240,55 @@
 773 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 1751.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 31312.0
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 11458.75
 	}
 }
@@ -296,55 +296,55 @@
 774 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 11870.75
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 10531.75
 	}
 }
@@ -352,31 +352,31 @@
 775 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 16068.0
 	}
 }
@@ -384,73 +384,73 @@
 776 = {
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 2755.25
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 4763.75
 	}
 
 	clergymen = {
 		culture = czech
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = czech
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = czech
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = czech
-		religion = catholic
+		religion = earth_pony
 		size = 4789.5
 	}
 }
@@ -458,31 +458,31 @@
 777 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 18926.25
 	}
 }
@@ -490,79 +490,79 @@
 778 = {
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 1236.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 4841.0
 	}
 
 	aristocrats = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 4557.75
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 }
@@ -572,109 +572,109 @@
 779 = {
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 24900.25
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 6695.0
 	}
 
 	aristocrats = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 5175.75
 	}
 
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 5459.0
 	}
 }
@@ -684,55 +684,55 @@
 780 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 35380.5
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 }
@@ -740,97 +740,97 @@
 781 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	officers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 21140.75
 	}
 
 	bureaucrats = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 2188.75
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 6746.5
 	}
 }
@@ -838,85 +838,85 @@
 782 = {
 	aristocrats = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 9501.75
 	}
 
 	aristocrats = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 1879.75
 	}
 
@@ -927,79 +927,79 @@
 793 = {
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 824.0
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 15321.25
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 7699.25
 	}
 
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 41.2
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1838.55
 	}
 }

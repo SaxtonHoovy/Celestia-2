@@ -4,31 +4,31 @@
 2123 = {
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 3527.75
 	}
 
@@ -72,31 +72,31 @@
 2124 = {
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 15.450000000000001
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 

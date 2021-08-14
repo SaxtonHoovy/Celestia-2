@@ -75,31 +75,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 125
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 525
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 9500
 	}
 
@@ -217,31 +217,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 650
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 9000
 	}
 }
@@ -279,31 +279,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 400
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 225
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 2375
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 17500
 	}
 }
@@ -341,31 +341,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 650
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 5500
 	}
 }
@@ -833,19 +833,19 @@
 
 	clergymen = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 1050
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 2000
 	}
 
@@ -959,13 +959,13 @@
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 }
@@ -1095,19 +1095,19 @@
 
 	clergymen = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 475
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 1800
 	}
 
@@ -1143,13 +1143,13 @@
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 }
@@ -1354,61 +1354,61 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 125
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 400
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 7325
 	}
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1325
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 675
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 3350
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 675
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 60975
 	}
 
@@ -1494,31 +1494,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 250
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 700
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 12750
 	}
 }
@@ -1556,61 +1556,61 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 250
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1350
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 24600
 	}
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 50
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 3650
 	}
 
@@ -1678,31 +1678,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 350
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1100
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 18250
 	}
 
@@ -1770,31 +1770,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 250
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1300
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 275
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 23675
 	}
 }
@@ -1845,19 +1845,19 @@
 
 	clergymen = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 1025
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 6000
 	}
 
@@ -2031,13 +2031,13 @@
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 }
@@ -2508,37 +2508,37 @@
 1496 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
@@ -2570,61 +2570,61 @@
 1498 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 30
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 90
 	}
 
 	officers = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 20
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 225
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	clergymen = {
 		culture = yue
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	artisans = {
 		culture = yue
-		religion = catholic
+		religion = earth_pony
 		size = 675
 	}
 
 	soldiers = {
 		culture = yue
-		religion = catholic
+		religion = earth_pony
 		size = 75
 	}
 
 	farmers = {
 		culture = yue
-		religion = catholic
+		religion = earth_pony
 		size = 1650
 	}
 
@@ -3457,43 +3457,43 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 400
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 2000
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 600
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 37000
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = jewish
+		religion = buffalo
 		size = 5
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = jewish
+		religion = buffalo
 		size = 495
 	}
 
@@ -3549,31 +3549,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 450
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 2000
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 25000
 	}
 }
@@ -3611,31 +3611,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 450
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1750
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 26000
 	}
 }
@@ -3673,31 +3673,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 600
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 400
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 2000
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 36500
 	}
 }
@@ -3735,31 +3735,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 450
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1750
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 250
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 25000
 	}
 }
@@ -3936,31 +3936,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 325
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 175
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 850
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 175
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 15475
 	}
 
@@ -4078,31 +4078,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 800
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 175
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 14575
 	}
 }
@@ -4170,31 +4170,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 325
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 250
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 1425
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 20000
 	}
 }
@@ -4232,31 +4232,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 2000
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 17000
 	}
 }
@@ -4324,31 +4324,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 20
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 80
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 1350
 	}
 }
@@ -4386,31 +4386,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 20
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 20
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 50
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 10
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 900
 	}
 }
@@ -4478,31 +4478,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 20
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 80
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 1100
 	}
 }
@@ -5231,25 +5231,25 @@
 
 	clergymen = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 50
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 700
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 3000
 	}
 
@@ -5471,31 +5471,31 @@
 
 	clergymen = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 150
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = protestant
+		religion = unicorn
 		size = 725
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 }
@@ -6378,31 +6378,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 700
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 550
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 2500
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 47000
 	}
 }
@@ -6838,55 +6838,55 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 50
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 1800
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 50
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 125
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1800
 	}
 
@@ -7064,31 +7064,31 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 225
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 125
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 600
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 125
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 10925
 	}
 
@@ -7199,31 +7199,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 600
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 400
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 3000
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 30500
 	}
 
@@ -7285,31 +7285,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 275
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 175
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 900
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 13500
 	}
 }
@@ -7347,31 +7347,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 800
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 400
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 2300
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 32000
 	}
 
@@ -7439,31 +7439,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1100
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 15000
 	}
 }
@@ -7514,31 +7514,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1400
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 900
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 7000
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1200
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 75000
 	}
 
@@ -7863,31 +7863,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 650
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 8500
 	}
 
@@ -7943,31 +7943,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 450
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 5250
 	}
 }
@@ -8005,31 +8005,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 350
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 50
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 4950
 	}
 }
@@ -8067,31 +8067,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 50
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 4250
 	}
 }
@@ -8129,31 +8129,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 10
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 25
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 15
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1250
 	}
 }
@@ -8885,31 +8885,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 1450
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 14000
 	}
 
@@ -9147,31 +9147,31 @@
 
 	aristocrats = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 50
 	}
 
 	clergymen = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 75
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 1100
 	}
 
 	soldiers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
+		religion = changeling
 		size = 5000
 	}
 
@@ -9698,19 +9698,19 @@
 
 	clergymen = {
 		culture = beifaren
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = protestant
+		religion = unicorn
 		size = 375
 	} 
 
 	farmers = {
 		culture = beifaren
-		religion = protestant
+		religion = unicorn
 		size = 2000
 	}
 
@@ -9746,13 +9746,13 @@
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 }
@@ -9959,31 +9959,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 300
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 250
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 5500
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 600
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 14700
 	}
 
@@ -10057,31 +10057,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 650
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 150
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 5500
 	}
 }
@@ -10215,31 +10215,31 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 350
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 1450
 	}
 
 	soldiers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 500
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
+		religion = changeling
 		size = 16500
 	}
 }

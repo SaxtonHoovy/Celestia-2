@@ -4,85 +4,85 @@
 2125 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 360
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 	
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 185
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = protestant
+		religion = unicorn
 		size = 135
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = protestant
+		religion = unicorn
 		size = 1565
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = protestant
+		religion = unicorn
 		size = 1295
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 	
 	farmers = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 31190
 	}
 
@@ -133,7 +133,7 @@
 2128 = {
 	farmers = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 180
 	}
 

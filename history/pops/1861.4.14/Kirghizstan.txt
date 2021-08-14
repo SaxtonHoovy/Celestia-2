@@ -4,91 +4,91 @@
 1189 = {
 	aristocrats = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 824.0
 	}
 
 	clergymen = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 437.75
 	}
 
 	artisans = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 34788.25
 	}
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 6643.5
 	}
 
 	aristocrats = {
 		culture = uighur
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = uighur
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = uighur
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = uighur
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = uighur
-		religion = sunni
+		religion = changeling
 		size = 7596.25
 	}
 }
@@ -96,31 +96,31 @@
 1190 = {
 	aristocrats = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 1130.0
 	}
 
 	farmers = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 2858.25
 	}
 
@@ -156,31 +156,31 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 4738.0
 	}
 }
@@ -190,61 +190,61 @@
 1203 = {
 	aristocrats = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	clergymen = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = uzbek
-		religion = sunni
+		religion = changeling
 		size = 8446.0
 	}
 
 	aristocrats = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	clergymen = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
 	soldiers = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = kirgiz
-		religion = sunni
+		religion = changeling
 		size = 13956.5
 	}
 

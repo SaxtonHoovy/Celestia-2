@@ -3,67 +3,67 @@
 2228 = {
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 1160
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 310
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	clergymen = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 155
 	}
 
 	artisans = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 1550
 	}
 
 	soldiers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 310
 	}
 
 	farmers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 4215
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 24800
 	}
 }
@@ -71,61 +71,61 @@
 2230 = {
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 910
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 55
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 1390
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 320
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 645
 	}
 
 	clergymen = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 160
 	}
 
 	artisans = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 1610
 	}
 
 	soldiers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 330
 	}
 
 	farmers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 3260
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = earth_pony
 		size = 25720
 	}
 }

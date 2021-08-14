@@ -331,31 +331,31 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 200
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 100
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 600
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 125
 	}
 
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = changeling
 		size = 8275
 	}
 }

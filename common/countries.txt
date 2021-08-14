@@ -21,6 +21,14 @@ TAL             = "countries/Tall Tale.txt"
 VAN             = "countries/Vanhoover.txt"
 WIN             = "countries/Whinnyapolis.txt"
 
+# changeling
+CLL             = "countries/Changeling Lands.txt"
+CYS             = "countries/Chrysalis's Hive.txt"
+PUA             = "countries/Pupa's Hive.txt"
+TRS             = "countries/Tarsus's Hive.txt"
+TMA             = "countries/Tagmata's Hive.txt"
+TCE             = "countries/Tritocere's Hive.txt"
+
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

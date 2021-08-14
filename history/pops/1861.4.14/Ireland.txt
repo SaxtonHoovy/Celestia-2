@@ -4,79 +4,79 @@
 254 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 125
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 563
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	clerks = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10000
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 625
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 7000
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 62938
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	craftsmen = { 
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 2750
 	}
 
 	labourers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 11625
 	}
 }
@@ -84,73 +84,73 @@
 255 = {
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 188
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 575
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 2000
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1500
 	}
 
 	labourers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 21313
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 125
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3500
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	clerks = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 200
 	}
 
 	craftsmen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 4800
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 32625
 	}
 }
@@ -158,55 +158,55 @@
 256 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 125
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 125
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2250
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	labourers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 35500
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	labourers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 9250
 	}
 }
@@ -214,55 +214,55 @@
 257 = {
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1875
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	labourers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 49625
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1125
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 70
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10290
 	}
 
@@ -273,31 +273,31 @@
 258 = {
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 625
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 2500
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 53375
 	}
 }
@@ -305,43 +305,43 @@
 259 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	bureaucrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 4750
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1250
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 78125
 	}
 
@@ -352,85 +352,85 @@
 260 = {
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	bureaucrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	officers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 11000
 	}
 
 	clerks = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 5900
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 84175
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 550
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 425
 	}
 
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 125
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3625
 	}
 }
@@ -438,31 +438,31 @@
 261 = {
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 5000
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 73250
 	}
 }
@@ -470,43 +470,43 @@
 262 = {
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 375
 	}
 
 	clerks = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 3400
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 3500
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 56875
 	}
 
@@ -517,67 +517,67 @@
 263 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 350
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 500
 	}
 
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	bureaucrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	officers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	clergymen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1125
 	}
 
 	clerks = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1500
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 13500
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 1125
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 25000
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 74000
 	}
 }
@@ -585,31 +585,31 @@
 264 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 275
 	}
 
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 75
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 3050
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	farmers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 62250
 	}
 }
@@ -617,43 +617,43 @@
 265 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 175
 	}
 
 	aristocrats = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 75
 	}
 
 	artisans = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 2750
 	}
 
 	clerks = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	craftsmen = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 3900
 	}
 
 	soldiers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	labourers = {
 		culture = irish
-		religion = catholic
+		religion = earth_pony
 		size = 48000
 	}
 

@@ -23,37 +23,37 @@
 
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1236.0
 	}
 
 	bureaucrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1236.0
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 14935.0
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 111497.5
 	}
 }
@@ -61,31 +61,31 @@
 1223 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 1515.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 42230.0
 	}
 
@@ -95,31 +95,31 @@
 1219 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 20934.75
 	}
 }
@@ -127,31 +127,31 @@
 1220 = {
 	aristocrats = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 13905.0
 	}
 }
@@ -159,43 +159,43 @@
 1221 = {
 	aristocrats = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	officers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	soldiers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 17432.75
 	}
 }
@@ -204,43 +204,43 @@
 1222 = {
 	aristocrats = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	bureaucrats = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	officers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 3130.0
 	}
 
 	farmers = {
 		culture = baluchi
-		religion = sunni
+		religion = changeling
 		size = 28634.0
 	}
 }
@@ -316,37 +316,37 @@
 
 	aristocrats = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 1648.0
 	}
 
 	bureaucrats = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	artisans = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 29870.0
 	}
 
 	soldiers = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 118269.75
 	}
 }
@@ -354,61 +354,61 @@
 1225 = {
 	aristocrats = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = pashtun
-		religion = sunni
+		religion = changeling
 		size = 4738.0
 	}
 
 	aristocrats = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 437.75
 	}
 
 	artisans = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 1412.0
 	}
 
 	farmers = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 37826.75
 	}
 
@@ -446,31 +446,31 @@
 1226 = {
 	aristocrats = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = kashmiri
-		religion = sunni
+		religion = changeling
 		size = 6617.75
 	}
 
@@ -589,37 +589,37 @@
 
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	bureaucrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 4635.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 433218.0
 	}
 }
@@ -657,31 +657,31 @@
 
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 128235.0
 	}
 
@@ -719,31 +719,31 @@
 1229 = {
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 1339.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 1339.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 118862.0
 	}
 
@@ -781,31 +781,31 @@
 1230 = {
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 48410.0
 	}
 
@@ -873,31 +873,31 @@
 1231 = {
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 721.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 3605.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 75241.5
 	}
 
@@ -965,31 +965,31 @@
 
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 11330.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 235355.0
 	}
 
@@ -1057,31 +1057,31 @@
 
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 20600.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 299215.0
 	}
 
@@ -1149,31 +1149,31 @@
 
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 824.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 77713.5
 	}
 
@@ -1242,31 +1242,31 @@
 1235 = {
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 3888.25
 	}
 
@@ -1332,31 +1332,31 @@
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
@@ -1403,37 +1403,37 @@
 
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	bureaucrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 3605.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 22660.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 194670.0
 	}
 
@@ -1469,7 +1469,7 @@
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 77.25
 	}
 }
@@ -1477,31 +1477,31 @@
 1237 = {
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 643.75
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
+		religion = changeling
 		size = 59353.75
 	}
 
@@ -1569,31 +1569,31 @@
 1238 = {
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 16737.5
 	}
 
@@ -1661,31 +1661,31 @@
 1239 = {
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 25106.25
 	}
 
@@ -1723,31 +1723,31 @@
 1240 = {
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 88065.0
 	}
 
@@ -1815,31 +1815,31 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1802.5
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1416.25
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 9270.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 121926.25
 	}
 }
@@ -1877,31 +1877,31 @@
 
 	aristocrats = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	clergymen = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	artisans = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	farmers = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 91155.0
 	}
 }
@@ -1909,31 +1909,31 @@
 1245 = {
 	aristocrats = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	farmers = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 61800.0
 	}
 
@@ -1971,31 +1971,31 @@
 1246 = {
 	aristocrats = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	artisans = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = kanauji
-		religion = sunni
+		religion = changeling
 		size = 42873.75
 	}
 
@@ -2034,85 +2034,85 @@
 1242 = {
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	bureaucrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	officers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1158.75
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 41200.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 57808.75
 	}
 
 	aristocrats = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 772.5
 	}
 
 	bureaucrats = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 721.0
 	}
 
 	officers = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 283.25
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 15450.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 5690.75
 	}
 
@@ -2186,31 +2186,31 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 721.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 22042.0
 	}
 
@@ -2257,43 +2257,43 @@
 
 	aristocrats = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	clergymen = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	bureaucrats = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	soldiers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	farmers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 106862.5
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 }
@@ -2331,31 +2331,31 @@
 
 	aristocrats = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	artisans = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 3605.0
 	}
 
 	soldiers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	farmers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 63345.0
 	}
 }
@@ -2393,31 +2393,31 @@
 
 	aristocrats = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	artisans = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 75705.0
 	}
 }
@@ -2455,31 +2455,31 @@
 
 	aristocrats = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 643.75
 	}
 
 	artisans = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = bihari
-		religion = sunni
+		religion = changeling
 		size = 51886.25
 	}
 
@@ -2526,67 +2526,67 @@
 
 	aristocrats = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	bureaucrats = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 65147.5
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 566.5
 	}
 
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 2060.0
 	}
 }
@@ -2624,31 +2624,31 @@
 
 	aristocrats = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 9785.0
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 187975.0
 	}
 }
@@ -2686,25 +2686,25 @@
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 4892.5
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 89095.0
 	}
 }
@@ -2712,31 +2712,31 @@
 1254 = {
 	aristocrats = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 38110.0
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 708640.0
 	}
 
@@ -2774,31 +2774,31 @@
 1255 = {
 	aristocrats = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 1802.5
 	}
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 3862.5
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 20600.0
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 3862.5
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 364362.5
 	}
 
@@ -2836,31 +2836,31 @@
 1256 = {
 	aristocrats = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 3862.5
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 19312.5
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 3862.5
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 357667.5
 	}
 
@@ -2898,31 +2898,31 @@
 1257 = {
 	aristocrats = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 8755.0
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 44290.0
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 8755.0
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 812670.0
 	}
 
@@ -3013,7 +3013,7 @@
 1258 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 
@@ -3055,31 +3055,31 @@
 
 	bureaucrats = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 47122.5
 	}
 
@@ -3141,25 +3141,25 @@
 
 	clergymen = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	artisans = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = assamese
-		religion = sunni
+		religion = changeling
 		size = 28968.75
 	}
 
@@ -3283,25 +3283,25 @@
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 643.75
 	}
 
 	artisans = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 2832.5
 	}
 
 	soldiers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 52658.75
 	}
 
@@ -3348,13 +3348,13 @@
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 }
@@ -3429,13 +3429,13 @@
 
 	clergymen = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = bengali
-		religion = sunni
+		religion = changeling
 		size = 3012.75
 	}
 }
@@ -3550,37 +3550,37 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 8574.75
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10.3
 	}
 }
@@ -3631,25 +3631,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 5484.75
 	}
 }
@@ -3700,25 +3700,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 4326.0
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 12875.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 7313.0
 	}
 }
@@ -3769,25 +3769,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2909.75
 	}
 }
@@ -3838,31 +3838,31 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 5201.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 15450.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 618.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 60821.5
 	}
 }
@@ -3913,25 +3913,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
@@ -3984,25 +3984,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 8909.5
 	}
 }
@@ -4053,25 +4053,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2961.25
 	}
 }
@@ -4122,25 +4122,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2575.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 }
@@ -4215,19 +4215,19 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 978.5
 	}
 }
@@ -4271,19 +4271,19 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1982.75
 	}
 
@@ -4359,37 +4359,37 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	bureaucrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 26728.5
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 }
@@ -4427,25 +4427,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 11536.0
 	}
 }
@@ -4497,25 +4497,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 29149.0
 	}
 
@@ -4708,25 +4708,25 @@
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 11845.0
 	}
 }
@@ -4777,19 +4777,19 @@
 
 	clergymen = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	farmers = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 4635.0
 	}
 
@@ -4929,73 +4929,73 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	bureaucrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2317.5
 	}
 
 	officers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 643.75
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 37080.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 14291.25
 	}
 
 	aristocrats = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 77.25
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = shiite
+		religion = griffon
 		size = 1890.05
 	}
 }
@@ -5033,31 +5033,31 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1721.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 37007.0
 	}
 }
@@ -5095,31 +5095,31 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 1824.0
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 33711.0
 	}
 }
@@ -5157,31 +5157,31 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 4660.75
 	}
 }
@@ -5219,31 +5219,31 @@
 
 	aristocrats = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = avadhi
-		religion = sunni
+		religion = changeling
 		size = 5510.5
 	}
 
@@ -5254,73 +5254,73 @@
 1288 = {
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1957.0
 	}
 
 	bureaucrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 824.0
 	}
 
 	officers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1931.25
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 9270.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 169048.75
 	}
 
 	aristocrats = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	artisans = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	farmers = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 5819.5
 	}
 
@@ -5352,31 +5352,31 @@
 1289 = {
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 75499.0
 	}
 
@@ -5408,31 +5408,31 @@
 1290 = {
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1390.5
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1390.5
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 6952.5
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 136681.0
 	}
 
@@ -5521,43 +5521,43 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	bureaucrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 13390.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 21398.25
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 10.3
 	}
 }
@@ -5595,31 +5595,31 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 25106.25
 	}
 }
@@ -5658,31 +5658,31 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 }
@@ -5732,31 +5732,31 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1905.5
 	}
 }
@@ -5801,31 +5801,31 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 12360.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 17716.0
 	}
 }
@@ -5869,31 +5869,31 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 72.10000000000001
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 5953.400000000001
 	}
 
@@ -5940,25 +5940,25 @@
 
 	artisans = {
 		culture = sindi
-		religion = jewish
+		religion = buffalo
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 2008.5
 	}
 
 	farmers = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
@@ -5982,85 +5982,85 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	bureaucrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 26780.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 100167.5
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	artisans = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 3991.25
 	}
 
 	farmers = {
 		culture = sindi
-		religion = shiite
+		religion = griffon
 		size = 2137.25
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1158.75
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 128.75
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3090.0
 	}
 }
@@ -6098,31 +6098,31 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = sindi
-		religion = sunni
+		religion = changeling
 		size = 4918.25
 	}
 }
@@ -6160,31 +6160,31 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 9656.25
 	}
 }
@@ -6222,37 +6222,37 @@
 
 	farmers = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 9270.0
 	}
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 4892.5
 	}
 }
@@ -6290,31 +6290,31 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 3888.25
 	}
 }
@@ -6370,31 +6370,31 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 20033.5
 	}
 
@@ -6404,67 +6404,67 @@
 1303 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	aristocrats = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	bureaucrats = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	artisans = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 2369.0
 	}
 
 	soldiers = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = marathi
-		religion = catholic
+		religion = earth_pony
 		size = 45036.75
 	}
 
@@ -6535,19 +6535,19 @@
 
 	artisans = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	farmers = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 77.25
 	}
 }
@@ -6585,31 +6585,31 @@
 
 	aristocrats = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	farmers = {
 		culture = telegu
-		religion = sunni
+		religion = changeling
 		size = 5742.25
 	}
 }
@@ -6647,37 +6647,37 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 6823.75
 	}
 
 	farmers = {
 		culture = kannada
-		religion = shiite
+		religion = griffon
 		size = 1030.0
 	}
 }
@@ -6715,31 +6715,31 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 7210.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 22891.75
 	}
 
@@ -6786,97 +6786,97 @@
 
 	clergymen = {
 		culture = tamil
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	artisans = {
 		culture = tamil
-		religion = catholic
+		religion = earth_pony
 		size = 1802.5
 	}
 
 	farmers = {
 		culture = tamil
-		religion = catholic
+		religion = earth_pony
 		size = 16608.75
 	}
 
 	clergymen = {
 		culture = tamil
-		religion = protestant
+		religion = unicorn
 		size = 128.75
 	}
 
 	artisans = {
 		culture = tamil
-		religion = protestant
+		religion = unicorn
 		size = 1802.5
 	}
 
 	farmers = {
 		culture = tamil
-		religion = protestant
+		religion = unicorn
 		size = 13518.75
 	}
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	bureaucrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 16480.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 142655.0
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 1416.25
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 386.25
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 3090.0
 	}
 }
@@ -6914,31 +6914,31 @@
 
 	aristocrats = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	artisans = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 9759.25
 	}
 }
@@ -6976,31 +6976,31 @@
 
 	aristocrats = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 8240.0
 	}
 
 	soldiers = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 19879.0
 	}
 }
@@ -7038,31 +7038,31 @@
 
 	aristocrats = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	artisans = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 7725.0
 	}
 
 	soldiers = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	farmers = {
 		culture = tamil
-		religion = sunni
+		religion = changeling
 		size = 42487.5
 	}
 
@@ -7072,25 +7072,25 @@
 1312 = {
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 15.450000000000001
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
@@ -7120,25 +7120,25 @@
 
 	clergymen = {
 		culture = tamil
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = tamil
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = tamil
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = tamil
-		religion = catholic
+		religion = earth_pony
 		size = 2678.0
 	}
 
@@ -7179,31 +7179,31 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 6180.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 6823.75
 	}
 }
@@ -7253,37 +7253,37 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	bureaucrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 4763.75
 	}
 }
@@ -7321,31 +7321,31 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 3965.5
 	}
 
@@ -7385,31 +7385,31 @@
 
 	aristocrats = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	artisans = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = kannada
-		religion = sunni
+		religion = changeling
 		size = 18849.0
 	}
 }
@@ -7449,91 +7449,91 @@
 
 	aristocrats = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 772.5
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 901.25
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 5150.0
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 79696.25
 	}
 
 	aristocrats = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 180.25
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 29277.75
 	}
 
 	aristocrats = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 35277.5
 	}
 }
@@ -7572,109 +7572,109 @@
 
 	aristocrats = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 30436.5
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = shiite
+		religion = griffon
 		size = 51.5
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = shiite
+		religion = griffon
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = shiite
+		religion = griffon
 		size = 978.5
 	}
 
 	aristocrats = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 772.5
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 13312.75
 	}
 
 	aristocrats = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 10995.25
 	}
 }
@@ -7724,109 +7724,109 @@
 
 	aristocrats = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = sunni
+		religion = changeling
 		size = 14986.5
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = shiite
+		religion = griffon
 		size = 25.75
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = shiite
+		religion = griffon
 		size = 721.0
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = shiite
+		religion = griffon
 		size = 283.25
 	}
 
 	aristocrats = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = orthodox
+		religion = pegasus
 		size = 13209.75
 	}
 
 	aristocrats = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	artisans = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = malayalam
-		religion = catholic
+		religion = earth_pony
 		size = 8368.75
 	}
 

@@ -200,31 +200,31 @@
 
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 1854.0
 	}
 

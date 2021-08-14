@@ -3,43 +3,43 @@
 2223 = {
 	aristocrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 175
 	}
 
 	bureaucrats = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 325
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = unicorn
 		size = 345
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 135
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 2910
 	}
 
 	slaves = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 5660
 	}
 }

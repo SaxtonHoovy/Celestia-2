@@ -1,2 +1,4 @@
+owner = FIL
+add_core = FIL
 trade_goods = coal
 life_rating = 35 

@@ -3,61 +3,61 @@
 658 = {
 	aristocrats = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 450
 	}
 
 	bureaucrats = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 75
 	}
 
 	officers = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 25
 	}
 
 	clergymen = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 250
 	}
 
 	artisans = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 1150
 	}
 
 	soldiers = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 1100
 	}
 
 	farmers = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 13075
 	}
 
 	clergymen = {
 		culture = polynesian
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = polynesian
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = polynesian
-		religion = catholic
+		religion = earth_pony
 		size = 1300
 	}
 }
@@ -501,19 +501,19 @@
 2552 = {
 	clergymen = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 1
 	}
 
 	artisans = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 4
 	}
 
 	farmers = {
 		culture = polynesian
-		religion = protestant
+		religion = unicorn
 		size = 35
 	}
 }

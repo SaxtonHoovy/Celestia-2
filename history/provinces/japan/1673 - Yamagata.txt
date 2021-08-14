@@ -1,2 +1,4 @@
+owner = WIN
+add_core = WIN
 trade_goods = silk
 life_rating = 30  

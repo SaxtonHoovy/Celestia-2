@@ -3,43 +3,43 @@
 2197 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 1050
 	}
 
 	bureaucrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 700
 	}
 
 	officers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 650
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 4350
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 5000
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 45000
 	}
 }
@@ -47,31 +47,31 @@
 2198 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 275
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 825
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 10000
 	}
 }
@@ -79,31 +79,31 @@
 2199 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 325
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 175
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 9500
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 13500
 	}
 }
@@ -111,55 +111,55 @@
 2200 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 10
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 1400
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 1800
 	}
 }

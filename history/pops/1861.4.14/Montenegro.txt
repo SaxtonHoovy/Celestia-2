@@ -4,43 +4,43 @@
 800 = {
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 203.0
 	}
 	
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 7776.5
 	}
 
 	clergymen = {
 		culture = albanian
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = albanian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = albanian
-		religion = sunni
+		religion = changeling
 		size = 849.75
 	}
 }
@@ -48,55 +48,55 @@
 2569 = {
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 203.0
 	}
 	
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 11742.0
 	}
 
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 5999.75
 	}
 }
@@ -105,37 +105,37 @@
 2583 = {
 	bureaucrats = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 135
 	}
 
 	officers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 65
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 500
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 1400
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 4100
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 27800
 	}
 }
@@ -145,55 +145,55 @@
 2577 = {
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 203.0
 	}
 	
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 8420.25
 	}
 
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = changeling
 		size = 3759.5
 	}
 }
@@ -203,49 +203,49 @@
 2582 = {
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 151.5
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = earth_pony
 		size = 4789.5
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 128.75
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = pegasus
 		size = 10531.75
 	}
 

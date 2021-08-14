@@ -33,31 +33,31 @@
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 75
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 }

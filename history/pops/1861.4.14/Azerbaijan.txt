@@ -4,121 +4,121 @@
 1102 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 41.2
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 5.15
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 15.450000000000001
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 41.2
 	}
 
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	bureaucrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 15.450000000000001
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 61.800000000000004
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 5510.5
 	}
 
 	aristocrats = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 180.25
 	}
 
 	bureaucrats = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 5.15
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 113.3
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 128.75
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 11314.550000000001
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 762.2
 	}
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 5.15
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 252.35
 	}
 }
@@ -126,91 +126,91 @@
 1103 = {
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 2806.75
 	}
 
 	aristocrats = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 77.25
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 77.25
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 6592.0
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 3708.0
 	}
 }
@@ -218,91 +218,91 @@
 1104 = {
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 30.900000000000002
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 46.35
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 1854.0
 	}
 
 	aristocrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 20.6
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 20.6
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 10.3
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 927.0
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 2678.0
 	}
 }
@@ -310,61 +310,61 @@
 1105 = {
 	aristocrats = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 77.25
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 103.0
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 9373.0
 	}
 
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 360.5
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 6617.75
 	}
 }
@@ -372,61 +372,61 @@
 1106 = {
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 8471.75
 	}
 
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 5639.25
 	}
 }
@@ -434,31 +434,31 @@
 1107 = {
 	aristocrats = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 128.75
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 721.0
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 154.5
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = shiite
+		religion = griffon
 		size = 13184.0
 	}
 

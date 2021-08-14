@@ -88,19 +88,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 3605.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 20934.75
 	}
 }
@@ -174,19 +174,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 103.0
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 13596.0
 	}
 }
@@ -230,19 +230,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 5793.75
 	}
 
@@ -316,19 +316,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 5793.75
 	}
 
@@ -402,19 +402,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 360.5
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 6798.0
 	}
 
@@ -476,19 +476,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 10712.0
 	}
 }
@@ -546,19 +546,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 231.75
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 1055.75
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 30642.5
 	}
 
@@ -614,19 +614,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 7776.5
 	}
 }
@@ -670,19 +670,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 3862.5
 	}
 
@@ -774,19 +774,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 3862.5
 	}
 }
@@ -942,19 +942,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 19441.25
 	}
 }
@@ -992,19 +992,19 @@
 
 	clergymen = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	farmers = {
 		culture = vietnamese
-		religion = catholic
+		religion = earth_pony
 		size = 4841.0
 	}
 

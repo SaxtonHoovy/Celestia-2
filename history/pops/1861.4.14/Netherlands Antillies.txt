@@ -3,43 +3,43 @@
 2234 = {
 	bureaucrats = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 15
 	}
 
 	soldiers = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 40
 	}
 
 	artisans = {
 		culture = dutch
-		religion = protestant
+		religion = unicorn
 		size = 120
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 60
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 240
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 5000
 	}
 }
@@ -47,19 +47,19 @@
 2235 = {
 	clergymen = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 35
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 35
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = earth_pony
 		size = 755
 	}
 }
@@ -67,19 +67,19 @@
 2236 = {
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 20
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 100
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = unicorn
 		size = 1580
 	}
 

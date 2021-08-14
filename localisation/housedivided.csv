@@ -538,14 +538,14 @@ movement_trinket_subsidies;Campaign for Unemployment Subsidies;Campagne pour des
 movement_low_subsidies;Campaign for Unemployment Subsidies;Campagne pour des allocations de chômage;Kampagne für Arbeitslosenunterstützung;;;;;;;;;;;x
 movement_acceptable_subsidies;Campaign for Unemployment Subsidies;Campagne pour des allocations de chômage;Kampagne für Arbeitslosenunterstützung;;;;;;;;;;;x
 movement_good_subsidies;Campaign for Unemployment Subsidies;Campagne pour des allocations de chômage;Kampagne für Arbeitslosenunterstützung;;;;;;;;;;;x
-movement_trinket_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
-movement_low_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
-movement_acceptable_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
-movement_good_pensions;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
-movement_trinket_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
-movement_low_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
-movement_acceptable_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
-movement_good_health_care;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_limited_conscription;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
+movement_extensive_conscription;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
+movement_service_by_requirement;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
+movement_scraping_the_barrel;Campaign for Old Age Security;Campagne pour l'aide aux personnes âgées;Kampagne für Sicherheit im Alter;;;;;;;;;;;x
+movement_trinket_state_benefits;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_low_state_benefits;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_acceptable_state_benefits;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
+movement_good_state_benefits;Universal Health Care Movement;Mouvement de couverture santé universelle;Universelle Krankenversorgung-Bewegung;;;;;;;;;;;x
 movement_low_schools;Common School Movement;Mouvement pour l'école publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x
 movement_acceptable_schools;Common School Movement;Mouvement pour l'école publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x
 movement_good_schools;Common School Movement;Mouvement pour l'école publique;Gemeinschaftsschulen-Bewegung;;;;;;;;;;;x

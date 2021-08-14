@@ -1,2 +1,4 @@
+owner = BLS
+add_core = BLS
 trade_goods = coal
 life_rating = 35 

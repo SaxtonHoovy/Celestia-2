@@ -2,49 +2,53 @@
 
 # Uses all 'modifiers' possible thats exported as a Modifier.
 
-christian = {
+pony = {
 
-	catholic = {
+	earth_pony = {
 		icon = 1
 		color = { 0.8 0.8 0 }
 	}
 
-	protestant = {
+	unicorn = {
 		icon = 2
 		color = { 0 0 0.7 }
 	}
 
-	orthodox = {
+	pegasus = {
 		icon = 3
 		color = { 0.7 0.5 0 }
 
 	}
 	
-	coptic = {
+	thestral = {
 		icon = 4
 		color = { 0 0.5 0.7 }
 		
 	}
 }
 
-muslim = {
-	sunni = {
+changeling = {
+	changeling = {
 		icon = 5
 		color = { 0 0.6 0 }
 		
 		
 	}
-
-	shiite = {
-		icon = 6
-		color = { 0 0.8 0 }
+		
+}
+griffon = {
+	griffon = {
+	icon = 6
+	color = { 0 0.8 0 }
 		
 	}
 
-	jewish = {
+}
+buffalo = {
+	buffalo = {
 		icon = 7
 		color = { 0.3 0.5 0.3 }
-	}	
+	}
 }
 
 eastern = {

@@ -34,43 +34,43 @@
 
 	clergymen = {
 		culture = malagasy
-		religion = catholic
+		religion = earth_pony
 		size = 5.15
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = catholic
+		religion = earth_pony
 		size = 10.3
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = catholic
+		religion = earth_pony
 		size = 242.05
 	}
 
 	aristocrats = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 927.0
 	}
 }
@@ -110,31 +110,31 @@
 2118 = {
 	aristocrats = {
 		culture = malagasy
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 
 	clergymen = {
 		culture = malagasy
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = malagasy
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = sunni
+		religion = changeling
 		size = 15475.75
 	}
 
@@ -178,31 +178,31 @@
 2119 = {
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 4145.75
 	}
 
@@ -244,43 +244,43 @@
 
 	clergymen = {
 		culture = malagasy
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = catholic
+		religion = earth_pony
 		size = 952.75
 	}
 
 	aristocrats = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 51.5
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = protestant
+		religion = unicorn
 		size = 1854.0
 	}
 }
@@ -288,31 +288,31 @@
 2120 = {
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 3218.75
 	}
 
@@ -420,31 +420,31 @@
 2121 = {
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 540.75
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 1133.0
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 13673.25
 	}
 
@@ -488,31 +488,31 @@
 2122 = {
 	aristocrats = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 669.5
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 180.25
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = sunni
+		religion = changeling
 		size = 3836.75
 	}
 

@@ -44,43 +44,43 @@
 1880 = {
 	aristocrats = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	bureaucrats = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	officers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 1081.5
 	}
 
 	soldiers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	farmers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 20419.75
 	}
 
@@ -124,97 +124,97 @@
 1881 = {
 	aristocrats = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	clergymen = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 798.25
 	}
 
 	soldiers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 15913.5
 	}
 
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 386.25
 	}
 
 	officers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 16634.5
 	}
 
 	aristocrats = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 5665.0
 	}
 
@@ -230,91 +230,91 @@
 1882 = {
 	aristocrats = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	clergymen = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	soldiers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	farmers = {
 		culture = fulbe
-		religion = sunni
+		religion = changeling
 		size = 6489.0
 	}
 
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 489.25
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 21346.75
 	}
 
 	aristocrats = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	farmers = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 5639.25
 	}
 
@@ -329,61 +329,61 @@
 1883 = {
 	aristocrats = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 824.0
 	}
 
 	clergymen = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	artisans = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 1699.5
 	}
 
 	soldiers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 437.75
 	}
 
 	farmers = {
 		culture = mande
-		religion = sunni
+		religion = changeling
 		size = 33706.75
 	}
 
 	aristocrats = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = dyula
-		religion = sunni
+		religion = changeling
 		size = 4686.5
 	}
 

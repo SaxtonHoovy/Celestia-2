@@ -3,67 +3,67 @@
 2186 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 600
 	}
 
 	bureaucrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 1975
 	}
 
 	officers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 375
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 450
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 7850
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 5000
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 40000
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 700
 	}
 
 	artisans = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 6800
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 5000
 	}
 
 	farmers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 75000
 	}
 }
@@ -71,55 +71,55 @@
 2187 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 175
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 125
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 1050
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 13000
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 250
 	}
 
 	artisans = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 2750
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 1100
 	}
 
 	farmers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 39000
 	}
 }
@@ -127,55 +127,55 @@
 2188 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 150
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 100
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 750
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 500
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 11000
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	artisans = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 4800
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 2500
 	}
 
 	farmers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 17500
 	}
 }
@@ -183,55 +183,55 @@
 2189 = {
 	aristocrats = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 15
 	}
 
 	clergymen = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 25
 	}
 
 	artisans = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 210
 	}
 
 	soldiers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 200
 	}
 
 	farmers = {
 		culture = central_american
-		religion = catholic
+		religion = earth_pony
 		size = 1800
 	}
 
 	clergymen = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	artisans = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 300
 	}
 
 	soldiers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 50
 	}
 
 	farmers = {
 		culture = mayan
-		religion = catholic
+		religion = earth_pony
 		size = 5600
 	}
 }

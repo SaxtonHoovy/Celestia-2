@@ -15,8 +15,10 @@ political_decisions = {
 
         effect = {
             set_global_flag = setup_complete
+	    any_country = { limit = {is_vassal = yes} add_country_modifier = { name = Vassals durations = -1 } }
 	    CAN = {add_country_modifier = { name = Cutie_Mark_Assignment_System duration = -1 } }
         }
     }
-
+	
 }
+		

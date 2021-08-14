@@ -4,61 +4,61 @@
 1877 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 10.3
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 15.450000000000001
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 5.15
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = earth_pony
 		size = 20.6
 	}
 
 	clergymen = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 386.25
 	}
 
 	soldiers = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 77.25
 	}
 
 	farmers = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 5665.0
 	}
 
 	slaves = {
 		culture = african_minor
-		religion = catholic
+		religion = earth_pony
 		size = 2060.0
 	}
 }

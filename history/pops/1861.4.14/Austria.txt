@@ -4,43 +4,43 @@
 612 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 772.5
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 695.25
 	}
 
 	officers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 566.5
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 2832.5
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 54924.75
 	}
 }
@@ -48,31 +48,31 @@
 613 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 669.5
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 3347.5
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1130.0
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 23744.25
 	}
 }
@@ -80,31 +80,31 @@
 614 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 309.0
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1545.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1230.0
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 30391.0
 	}
 }
@@ -112,31 +112,31 @@
 615 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 128.75
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 12334.25
 	}
 }
@@ -146,43 +146,43 @@
 616 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1596.5
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 540.75
 	}
 
 	officers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 283.25
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1055.75
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 10300.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1081.5
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 83095.25
 	}
 }
@@ -190,31 +190,31 @@
 617 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 2317.5
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1463.5
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 38294.5
 	}
 }
@@ -222,55 +222,55 @@
 618 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 334.75
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1596.5
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 26445.25
 	}
 
 	clergymen = {
 		culture = slovene
-		religion = catholic
+		religion = earth_pony
 		size = 180.25
 	}
 
 	artisans = {
 		culture = slovene
-		religion = catholic
+		religion = earth_pony
 		size = 978.5
 	}
 
 	soldiers = {
 		culture = slovene
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
 	farmers = {
 		culture = slovene
-		religion = catholic
+		religion = earth_pony
 		size = 17175.25
 	}
 }
@@ -280,97 +280,97 @@
 619 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 4377.5
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1442.0
 	}
 
 	officers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 2832.5
 	}
 
 	clerks = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 100.0
 	}
 	
 	capitalists = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1200
 	}
 	
 	craftsmen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 8000.0
 	}
 	
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 59125.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 25032.5
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 167386.5
 	}
 
 	clergymen = {
 		culture = czech
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = czech
-		religion = catholic
+		religion = earth_pony
 		size = 6128.5
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 20.6
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 1009.4
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = jewish
+		religion = buffalo
 		size = 5.15
 	}
 
 	artisans = {
 		culture = south_german
-		religion = jewish
+		religion = buffalo
 		size = 509.85
 	}
 }
@@ -378,37 +378,37 @@
 620 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 386.25
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 618.0
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 257.5
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1236.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 1257.5
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 19522.75
 	}
 }
@@ -416,31 +416,31 @@
 621 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 952.75
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 643.75
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 3193.0
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 4669.5
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 52341.0
 	}
 }
@@ -448,43 +448,43 @@
 622 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 2369.0
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 3296.0
 	}
 
 	clerks = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 100.0
 	}
 	
 	craftsmen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 8000.0
 	}
 	
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 7779.5
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 7596.5
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 123917.0
 	}
 }
@@ -494,79 +494,79 @@
 624 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 721.0
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 489.25
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 2523.5
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 4530.0
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = earth_pony
 		size = 40016.25
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 61.800000000000004
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 25.75
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = catholic
+		religion = earth_pony
 		size = 2847.9500000000003
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = unicorn
 		size = 36.050000000000004
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = unicorn
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = protestant
+		religion = unicorn
 		size = 25.75
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = unicorn
 		size = 1843.7
 	}
 }

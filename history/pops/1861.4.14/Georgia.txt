@@ -1,172 +1,172 @@
 #Gruzhia Region (644000)
 #under the rule of Russia in 1836
-#Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
+#Tblisi (232000/58000 POPS) #circassian-pegasus = Ossetian
 1090 = {
 	bureaucrats = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	soldiers = {
 		culture = russian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	aristocrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	bureaucrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	officers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 180.25
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 489.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 6926.75
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 40813.75
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 25.75
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 2858.25
 	}
 
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 2472.0
 	}
 
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 2832.5
 	}
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 504.7
 	}
 }
@@ -174,91 +174,91 @@
 1091 = {
 	aristocrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 9373.0
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 5665.0
 	}
 
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 2781.0
 	}
 }
@@ -266,43 +266,43 @@
 1092 = {
 	aristocrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 566.5
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 309.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 28119.0
 	}
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 5.15
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 252.35
 	}
 }
@@ -310,91 +310,91 @@
 1093 = {
 	aristocrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 3733.75
 	}
 
 	aristocrats = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = pegasus
 		size = 4686.5
 	}
 
 	aristocrats = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 20.6
 	}
 
 	clergymen = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 20.6
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	soldiers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 10.3
 	}
 
 	farmers = {
 		culture = azerbaijani
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 }
@@ -402,31 +402,31 @@
 1094 = {
 	aristocrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 515.0
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 257.5
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 1339.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 283.25
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 24385.25
 	}
 }
@@ -434,91 +434,91 @@
 1095 = {
 	aristocrats = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 51.5
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 3708.0
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 154.5
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 463.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 103.0
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = orthodox
+		religion = pegasus
 		size = 8471.75
 	}
 
 	aristocrats = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 257.5
 	}
 
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
+		religion = changeling
 		size = 4686.5
 	}
 }
@@ -528,79 +528,79 @@
 1096 = {
 	aristocrats = {
 		culture = turkish
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = turkish
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = turkish
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = turkish
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = turkish
-		religion = sunni
+		religion = changeling
 		size = 2806.75
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 77.25
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 206.0
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
+		religion = pegasus
 		size = 3836.75
 	}
 
 	aristocrats = {
 		culture = georgian
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = georgian
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = georgian
-		religion = sunni
+		religion = changeling
 		size = 618.0
 	}
 
 	soldiers = {
 		culture = georgian
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	farmers = {
 		culture = georgian
-		religion = sunni
+		religion = changeling
 		size = 11587.5
 	}
 

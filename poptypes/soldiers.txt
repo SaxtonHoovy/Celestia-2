@@ -3749,14 +3749,14 @@ issues =
 			consciousness = 9
 		}
 	}
-	trinket_pensions = { 
+	limited_conscription = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = trinket_pensions
+					is_next_reform = limited_conscription
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -3828,14 +3828,14 @@ issues =
 			luxury_needs = 1
 		}
 	}
-	low_pensions = { 
+	extensive_conscription = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = low_pensions
+					is_next_reform = extensive_conscription
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -3907,14 +3907,14 @@ issues =
 			luxury_needs = 1
 		}
 	}
-	acceptable_pensions = { 
+	service_by_requirement = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = acceptable_pensions
+					is_next_reform = service_by_requirement
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -3986,14 +3986,14 @@ issues =
 			luxury_needs = 1
 		}
 	}
-	good_pensions = { 
+	scraping_the_barrel = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = good_pensions
+					is_next_reform = scraping_the_barrel
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -4065,14 +4065,14 @@ issues =
 			luxury_needs = 1
 		}
 	}
-	trinket_health_care = { 
+	trinket_state_benefits = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 7 }
 				NOT = {
-					is_next_reform = trinket_health_care
+					is_next_reform = trinket_state_benefits
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -4136,7 +4136,7 @@ issues =
 			}
 		}
 	}
-	low_health_care = { 
+	low_state_benefits = { 
 		factor = 1
 		modifier = {
 			factor = 0 
@@ -4144,7 +4144,7 @@ issues =
 				luxury_needs = 1.0
 				NOT = { consciousness = 7 }
 				NOT = {
-					is_next_reform = low_health_care
+					is_next_reform = low_state_benefits
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -4208,7 +4208,7 @@ issues =
 			}
 		}
 	}
-	acceptable_health_care = { 
+	acceptable_state_benefits = { 
 		factor = 1
 		modifier = {
 			factor = 0 
@@ -4216,7 +4216,7 @@ issues =
 				luxury_needs = 1.0
 				NOT = { consciousness = 7 }
 				NOT = {
-					is_next_reform = acceptable_health_care
+					is_next_reform = acceptable_state_benefits
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -4280,7 +4280,7 @@ issues =
 			}
 		}
 	}
-	good_health_care = { 
+	good_state_benefits = { 
 		factor = 1
 		modifier = {
 			factor = 0 
@@ -4288,7 +4288,7 @@ issues =
 				luxury_needs = 1.0
 				NOT = { consciousness = 7 }
 				NOT = {
-					is_next_reform = good_health_care
+					is_next_reform = good_state_benefits
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	

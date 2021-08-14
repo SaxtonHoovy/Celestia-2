@@ -4,43 +4,43 @@
 1725 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 2420.5
 	}
 
 	bureaucrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	officers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 334.75
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 1236.0
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 28325.0
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 4120.0
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 78717.75
 	}
 
@@ -52,25 +52,25 @@
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 77.25
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 3836.75
 	}
 
 	artisans = {
 		culture = maltese
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 
 	artisans = {
 		culture = south_italian
-		religion = catholic
+		religion = earth_pony
 		size = 515.0
 	}
 }
@@ -78,31 +78,31 @@
 1726 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 695.25
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 3347.5
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 60332.25
 	}
 
@@ -114,13 +114,13 @@
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 5.15
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 252.35
 	}
 }
@@ -128,31 +128,31 @@
 1727 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 463.5
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 283.25
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 1287.5
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 130.0
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 23685.75
 	}
 
@@ -166,31 +166,31 @@
 1728 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 901.25
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 2317.5
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 41431.75
 	}
 
@@ -202,13 +202,13 @@
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 5.15
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 252.35
 	}
 }
@@ -216,31 +216,31 @@
 1729 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 360.5
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 978.5
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 17819.0
 	}
 
@@ -254,31 +254,31 @@
 1730 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 927.0
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 2343.25
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 1030.0
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = sunni
+		religion = changeling
 		size = 42049.75
 	}
 
@@ -290,13 +290,13 @@
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 10.3
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 504.7
 	}
 

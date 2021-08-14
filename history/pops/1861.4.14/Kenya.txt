@@ -365,31 +365,31 @@
 2031 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 875.5
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 231.75
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 18771.75
 	}
 
@@ -463,31 +463,31 @@
 
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 77.25
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 154.5
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 25.75
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = changeling
 		size = 2781.0
 	}
 
@@ -527,61 +527,61 @@
 2029 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 206.0
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 566.5
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 1330.0
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 10424.5
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 103.0
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 309.0
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 51.5
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
@@ -625,31 +625,31 @@
 2030 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 231.75
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 128.75
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 515.0
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 1328.75
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = changeling
 		size = 10325.75
 	}
 

@@ -4,61 +4,61 @@
 517 = {
 	officers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 5.15
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 5.15
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 5.15
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 103.0
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = unicorn
 		size = 139.05
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = buffalo
 		size = 412.0
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 3090.0
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 51.5
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = earth_pony
 		size = 206.0
 	}
 
