@@ -1,3 +1,0 @@
-add_core = BRZ
-trade_goods = coffee
-life_rating = 35 

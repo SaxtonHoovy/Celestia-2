@@ -1,0 +1,4 @@
+owner = TMA
+add_core = TMA
+trade_goods = fruit
+life_rating = 30 

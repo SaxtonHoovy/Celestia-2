@@ -1,4 +1,0 @@
-owner = TMA
-add_core = TMA
-trade_goods = coffee
-life_rating = 35 
