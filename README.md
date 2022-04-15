@@ -2,7 +2,8 @@
 A Victoria 2 mod about Ponies
 
 Installation:
-Place the Celestia-2-main folder into the mod folder
-Take the .mod file outside of the Celestia-2-main folder and place it into the mod folder
-After downloading please rename Celestia-2-main to Celestia 2
-Open game and click on Celestia 2.
+Installation has been made simple now 
+Just drag the Celestia 2 Folder and the Celestia 2.mod and drag them into the mod folder
+Then click open Vic2 and check Celestia 2.
+
+Side Note:Game may crash once when loading flags the first time but should run fine afterwards.
